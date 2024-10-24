@@ -33,4 +33,4 @@ Não houve exercícios propostos nesta sprint.
 Devido à ausência de exercícios propostos, não há evidências dos mesmos.
 
 ## Certificados
-Nesta sprint, todos os certificados foram emitidos pela Udemy.
+Nesta sprint, todos os certificados foram emitidos pela Udemy. [https://github.com/Brunacisotto/programadebolsas/tree/main/Sprint1/Certificados](https://github.com/Brunacisotto/programadebolsas/tree/main/Sprint1/Certificados)
