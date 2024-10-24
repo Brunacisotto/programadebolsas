@@ -6,7 +6,7 @@ Nesta primeira sprint, fui introduzida ao Linux e ao Git/GitHub. Como não havia
 ## Resumo
 
 ### Linux
-Meu primeiro desafio foi a instalação da máquina virtual (VM). Após algumas dificuldades, consegui instalar e configurar o Ubuntu para rodar. Durante esta fase, aprendi:
+Meu primeiro desafio foi a instalação da máquina virtual (VM). Após algumas dificuldades, consegui instalar e configurar o Ubuntu para rodar. Durante esta fase, aprendi entre muitas outras coisas:
 
 - Comandos básicos do sistema operacional.
 - Criação, movimentação e cópia de diretórios e arquivos.
@@ -27,6 +27,7 @@ Utilizei o Visual Studio Code (VSCode) como editor de código, pois achei sua in
 
 ## Exercícios
 Não houve exercícios propostos nesta sprint.
+[Sprint1/Exercicios](Sprint1/Exercicios)
 
 ## Evidências
 Devido à ausência de exercícios propostos, não há evidências dos mesmos.
