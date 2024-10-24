@@ -27,7 +27,7 @@ Utilizei o Visual Studio Code (VSCode) como editor de código, pois achei sua in
 
 ## Exercícios
 Não houve exercícios propostos nesta sprint.
-[Sprint1/Exercicios](Sprint1/Exercicios)
+[https://github.com/Brunacisotto/programadebolsas/tree/main/Sprint1/Exercicios](https://github.com/Brunacisotto/programadebolsas/tree/main/Sprint1/Exercicios)
 
 ## Evidências
 Devido à ausência de exercícios propostos, não há evidências dos mesmos.
