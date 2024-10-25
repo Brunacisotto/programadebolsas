@@ -70,7 +70,19 @@ Execução do **Crontab**:
 Criação do script para **consolidar os relatórios** gerados:  
 ![Script Consolidador](https://github.com/Brunacisotto/programadebolsas/blob/main/Sprint1/Evidencias/printsexecucao/06scriptconsolidador.png)
 
----
+### Etapa 9 (Final)
+
+Após rodar por 4 dias e ter o consolidador executado, este foi o resultado:
+
+![Estrutura Ecommerce](https://github.com/Brunacisotto/programadebolsas/blob/main/Sprint1/Evidencias/printdaestruturadiretorios/1ecommerce.png)  
+![Estrutura Vendas](https://github.com/Brunacisotto/programadebolsas/blob/main/Sprint1/Evidencias/printdaestruturadiretorios/2vendas.png)  
+![Estrutura Backup](https://github.com/Brunacisotto/programadebolsas/blob/main/Sprint1/Evidencias/printdaestruturadiretorios/3backup.png)  
+![Arquivos de Backup e Relatórios](https://github.com/Brunacisotto/programadebolsas/blob/main/Sprint1/Evidencias/printdaestruturadiretorios/4arquivosbackuperelatorios.png)
+
+### Relatórios Gerados
+Os relatórios gerados podem ser acessados no link abaixo:  
+[Relatórios Gerados](https://github.com/Brunacisotto/programadebolsas/tree/main/Sprint1/Evidencias/arquivosgerados)
+
 
 ## Acesso aos Arquivos
 
