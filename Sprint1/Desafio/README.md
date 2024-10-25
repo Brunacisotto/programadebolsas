@@ -74,10 +74,10 @@ Criação do script para **consolidar os relatórios** gerados:
 
 ## Acesso aos Arquivos
 
-Os **scripts** (arquivos `.sh`) e os **relatórios gerados** nas execuções (relatórios e backups) estão disponíveis para correção na pasta abaixo:  
+Os **scripts** (arquivos `.sh`) e os **relatórios gerados** nas execuções (relatórios e backups) estão disponíveis para correção na pasta abaixo, nela segui a estrutura de diretórios proposto no desafio:  
 [Relatórios e Backups](https://github.com/Brunacisotto/programadebolsas/tree/main/Sprint1/Desafio/ecommerce)
 
----
+---gi
 
 ## Observação
 No primeiro dia, tive um problema com o **Crontab**, e por isso o horário do relatório foi gerado com alguns minutos de atraso.
