@@ -75,7 +75,7 @@ Criação do script para **consolidar os relatórios** gerados:
 ## Acesso aos Arquivos
 
 Os **scripts** (arquivos `.csv`) e os **relatórios gerados** (relatórios e backups) estão disponíveis para correção na pasta abaixo:  
-[Relatórios e Backups](https://github.com/Brunacisotto/programadebolsas/tree/main/Sprint1/Evidencias/ecommerce)
+[Relatórios e Backups](https://github.com/Brunacisotto/programadebolsas/tree/main/Sprint1/Desafio/ecommerce)
 
 ---
 
