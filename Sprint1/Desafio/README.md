@@ -67,8 +67,9 @@ Execução do **Crontab**:
 ---
 
 ### **Etapa 8**  
-Criação do script para **consolidar os relatórios** gerados:  
+Criação do script para **consolidar os relatórios** gerados e ajustando permissões:  
 ![Script Consolidador](https://github.com/Brunacisotto/programadebolsas/blob/main/Sprint1/Evidencias/printsexecucao/06scriptconsolidador.png)
+![Consolidador](https://github.com/Brunacisotto/programadebolsas/blob/main/Sprint1/Evidencias/printsexecucao/07gerandoconsolidador.png)
 
 ### Etapa 9 (Final)
 
