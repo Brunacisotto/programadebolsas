@@ -3,7 +3,7 @@
 O desafio proposto era, com base em um relatório de vendas fornecido, criar um **arquivo executável** que, todos os dias, por 4 dias seguidos às 15:27, criasse dentro da pasta `vendas/backup`:
 
 1. Um arquivo chamado **backup dados**, que deveria ser **zipado**. Esse arquivo conteria a **lista base** nele.
-2. Na mesma pasta, deveria ser criado um arquivo chamado **relatório** precedido pela **data do dia da execução**.
+2. Na mesma pasta, deveria ser criado um arquivo chamado **relatório** procedido pela **data do dia da execução**.
 
 ## O arquivo relatório precisava conter:
 - A **data e o horário da execução**.
