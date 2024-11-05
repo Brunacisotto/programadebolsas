@@ -41,7 +41,6 @@ Respostas dos exercícios da loja
 
 
 
-
 ## Evidências
 
 ## Certificados
