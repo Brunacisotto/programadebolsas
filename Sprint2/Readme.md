@@ -40,6 +40,9 @@ Respostas dos exercícios da loja
 16- [resposta do exercicio16](../Sprint2/Exercicios/loja/sql/exercicio16.sql)
 
 ### exercícios exportados para .csv
+
+[codigo da execucao dos dois exercícios](../Sprint2/Exercicios/exercicios.csv/codigoexercicio.sql)
+
 [exercício 5 maiores editoras](../Sprint2/Exercicios/exercicios.csv/5maioreseditoras.csv)
 [exercício livros mais caros](../Sprint2/Exercicios/exercicios.csv/livrosmaiscaros.csv)
 
