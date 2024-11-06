@@ -39,9 +39,34 @@ Respostas dos exercícios da loja
 15- [resposta do exercicio15](../Sprint2/Exercicios/loja/sql/exercicio15.sql)
 16- [resposta do exercicio16](../Sprint2/Exercicios/loja/sql/exercicio16.sql)
 
-
+### exercícios exportados para .csv
+[exercício 5 maiores editoras](../Sprint2/Exercicios/exercicios.csv/5maioreseditoras.csv)
+[exercício livros mais caros](../Sprint2/Exercicios/exercicios.csv/livrosmaiscaros.csv)
 
 ## Evidências
+### biblioteca Udemy
+A seguir seguem as evidencias da execução dos exercícios biblioteca
+
+![exercício1](../Sprint2/Exercicios/biblioteca/evidencias/exercicio01.png)
+![exercício2](../Sprint2/Exercicios/biblioteca/evidencias/exercicio02.png)
+![exercício3](../Sprint2/Exercicios/biblioteca/evidencias/exercicio03.png)
+![exercício4](../Sprint2/Exercicios/biblioteca/evidencias/exercicio04.png)
+![exercício5](../Sprint2/Exercicios/biblioteca/evidencias/exercicio05.png)
+![exercício6](../Sprint2/Exercicios/biblioteca/evidencias/exercicio06.png)
+![exercício7](../Sprint2/Exercicios/biblioteca/evidencias/exercicio07.png)
+
+### loja Udemy
+A seguir seguem as evidencias da execução dos exercícios loja
+
+![exercício8](../Sprint2/Exercicios/loja/evidencias/exercicio08.png)
+![exercício9](../Sprint2/Exercicios/loja/evidencias/exercicio09.png)
+![exercício10](../Sprint2/Exercicios/loja/evidencias/exercicio10.png)
+![exercício11](../Sprint2/Exercicios/loja/evidencias/exercicio11.png)
+![exercício12](../Sprint2/Exercicios/loja/evidencias/exercicio12.png)
+![exercício13](../Sprint2/Exercicios/loja/evidencias/exercicio13.png)
+![exercício14](../Sprint2/Exercicios/loja/evidencias/exercicio14.png)
+![exercício15](../Sprint2/Exercicios/loja/evidencias/exercicio15.png)
+![exercício16](../Sprint2/Exercicios/loja/evidencias/exercicio16.png)
 
 ## Certificados
 ![curso AWS](../Sprint2/Certificados/awssalesacreditacion.pdf)
