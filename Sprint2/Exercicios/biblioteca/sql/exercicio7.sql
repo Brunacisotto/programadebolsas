@@ -1,2 +1,9 @@
---- exercicio8
+--- exercicio7
+
+SELECT AUT.nome AS nome
+FROM AUTOR AS AUT
+LEFT JOIN LIVRO AS LIVRO
+ON AUT.codautor = LIVRO.autor
+WHERE LIVRO.autor IS NULL;
+
 
