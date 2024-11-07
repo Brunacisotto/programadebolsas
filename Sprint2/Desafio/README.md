@@ -116,7 +116,3 @@ Os códigos gerados para a execução desse desafio estão salvos na extensão .
 ![modelorelacional](../Desafio/modelorelacional/relacionalconcessionaria.sql)
 ![modelodimensional](../Desafio/modelodimensional/dimensionalconcessionaria.sql)
 
-Aqui estão as tabelas dos modelos:
-
-![modelorelacional](../Desafio/modelorelacional/modelorelacional.mwb)
-![modelodimensional](../Desafio/modelodimensional/modelodimensional.mwb)
