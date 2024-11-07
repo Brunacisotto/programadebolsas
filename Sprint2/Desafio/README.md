@@ -4,6 +4,7 @@ Nesta sprint, o desafio foi aplicar as formas normais a uma base de dados e, pos
 
 ## Primeira Etapa: Normalização e modelagem Relacional
 
+Para trabalhar nesse desafio usei o MySQL workbench.
 Inicialmente, fiz um tratamento dos dados da tabela, pois alguns campos de data e hora não estavam configurados corretamente. Aproveitei essa etapa para revisar todos os campos e ajustá-los para garantir consistência. As imagens a seguir ilustram essas alterações:
 
 ![normalizacao](../Evidencias/Desafio-Relacional/tratamentodados.png)
@@ -18,6 +19,7 @@ Para a tabela de clientes, criei uma estrutura onde o campo `idCliente` atua com
 ![codigocliente](../Evidencias/Desafio-Relacional/cliente.png)
 
 tabela gerada após a execução do código: 
+
 ![resultadocliente](../Evidencias/Desafio-Relacional/tbcliente.png)
 
 ### 2. Tabela de Vendedores
@@ -27,6 +29,7 @@ Segui o mesmo procedimento para a tabela de vendedores: `idVendedor` foi definid
 ![codigovendedor](../Evidencias/Desafio-Relacional/vendedor.png)
 
 tabela gerada após a execução do código: 
+
 ![resultadovendedor](../Evidencias/Desafio-Relacional/tbvendedor.png)
 
 ### 3. Tabela de Combustível e Tabela de Veículo
@@ -40,6 +43,7 @@ As imagens a seguir ilustram essa estrutura:
 ![codigocombustivel](../Evidencias/Desafio-Relacional/combustivel.png)
 
 tabela gerada após a execução do código: 
+
 ![resultadocombustivel](../Evidencias/Desafio-Relacional/tbcombustivel.png)
 
 ![codigoveiculo](../Evidencias/Desafio-Relacional/veiculo.png)
@@ -60,3 +64,59 @@ Gerando a seguinte tabela locação:
 Por fim, o modelo relacional finalizado está representado na imagem abaixo.
 
 ![modelorelacional](../Evidencias/Desafio-Relacional/modelorelacional.png)
+
+
+## Segunda Etapa: Criação do Modelo Dimensional
+
+Na segunda etapa, optei por criar o modelo dimensional por meio de **views**, seguindo as orientações do vídeo disponibilizado na Udemy pelo instrutor Antonio Alex.
+
+Primeiramente, criei a **view `dim_cliente`**, que contém exatamente os mesmos dados da tabela **cliente**, considerando que todos os atributos eram relevantes para o modelo.
+
+![viewcliente](../Evidencias/Desafio-Dimensional/dim_cliente.png)
+
+tabela gerada após a execução da view:
+
+![viewclientetabela](../Evidencias/Desafio-Dimensional/dimcliente.png)
+
+Em seguida, criei a **view `dim_vendedor`**, utilizando o mesmo raciocínio aplicado na etapa anterior.
+
+![viewvendedor](../Evidencias/Desafio-Dimensional/dim_vendedor.png)
+
+tabela gerada após a execução da view:
+
+![viewvendedortabela](../Evidencias/Desafio-Dimensional/dimvendedor.png)
+
+Depois disso, desenvolvi a **view `dim_veiculo`**, na qual trouxe a quilometragem do carro e o tipo de combustível, dados que anteriormente estavam na tabela **combustível**. Considerando a estrutura do modelo dimensional, esses dados foram agrupados na **dim_veiculo** para melhor organização.
+
+![viewveiculo](../Evidencias/Desafio-Dimensional/dim_veiculo.png)
+
+tabela gerada após a execução da view:
+
+![viewveiculotabela](../Evidencias/Desafio-Dimensional/dimveiculo.png)
+
+Por fim, criei a **tabela `fato_locacao`**, que contém todos os registros numéricos necessários para o modelo.
+
+![viewfato](../Evidencias/Desafio-Dimensional/tabela_fato.png)
+
+tabela gerada após a execução da view:
+
+![viewfatotabela](../Evidencias/Desafio-Dimensional/fato1.png)
+![viewfatotabela](../Evidencias/Desafio-Dimensional/fato2.png)
+
+
+Como resultado, o modelo dimensional final ficou conforme ilustrado na imagem abaixo:
+
+![modelodimensional](../Evidencias/Desafio-Dimensional/modelodimensional.png)
+
+
+# Arquivos Gerados
+
+Os códigos gerados para a execução desse desafio estão salvos na extensão .sql e podem ser encontrados aqui:
+
+![modelorelacional](../Desafio/modelorelacional/relacionalconcessionaria.sql)
+![modelodimensional](../Desafio/modelodimensional/dimensionalconcessionaria.sql)
+
+Aqui estão as tabelas dos modelos:
+
+![modelorelacional](../Desafio/modelorelacional/modelorelacional.mwb)
+![modelodimensional](../Desafio/modelodimensional/modelodimensional.mwb)
