@@ -94,9 +94,9 @@ tabela gerada após a execução da view:
 
 ![viewveiculotabela](../Evidencias/Desafio-Dimensional/dimveiculo.png)
 
-Por fim, criei a **tabela `fato_locacao`**, que contém todos os registros numéricos necessários para o modelo.
+Por fim, criei a **tabela `fato_locacao`**, que contém todos os registros numéricos necessários para o modelo, e relacionei com as demais tabelas atravé do Join.
 
-![viewfato](../Evidencias/Desafio-Dimensional/tabela_fato.png)
+![viewfato](../Evidencias/Desafio-Dimensional/fatolocacao.png)
 
 tabela gerada após a execução da view:
 
