@@ -14,6 +14,7 @@ SELECT idCliente AS idCliente,
        paisCliente AS paisCliente
 FROM cliente;
 
+
 -- dim_vendedor
 CREATE VIEW dim_vendedor AS
 SELECT idVendedor AS idVendedor,
@@ -36,19 +37,25 @@ FROM veiculo v
 JOIN combustivel c ON v.idCombustivel = c.idCombustivel;
       
 -- tabelafato
-create view fato_locacao as
-select idLocacao as idLocacao,
-	   idCliente as idCliente,
-       idCarro as idCarro,
-       idVendedor as idVendedor,
-       dataLocacao as dataLocacao,
-       horaLocacao as horaLocacao,
-       qtdDiaria as qtdDiaria,
-       vlrDiaria as vlrDiaria, 
-       dataEntrega as dataEntrega,
-       horaEntrega as horaEntrega
-       from tb_locacao
-       
-    
+CREATE VIEW fato_locacao AS
+SELECT 
+    l.idLocacao AS idLocacao,
+    l.idCliente AS idCliente,
+    l.idCarro AS idCarro,
+    l.idVendedor AS idVendedor,
+    l.dataLocacao AS dataLocacao,
+    l.horaLocacao AS horaLocacao,
+    l.qtdDiaria AS qtdDiaria,
+    l.vlrDiaria AS vlrDiaria, 
+    l.dataEntrega AS dataEntrega,
+    l.horaEntrega AS horaEntrega
+FROM 
+    tb_locacao l
+JOIN 
+    dim_veiculo ve ON l.idCarro = ve.idCarro
+JOIN 
+    dim_cliente c ON l.idCliente = c.idCliente
+JOIN 
+    dim_vendedor vdr ON l.idVendedor = vdr.idVendedor;
 
       
