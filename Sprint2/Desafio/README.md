@@ -94,7 +94,7 @@ tabela gerada após a execução da view:
 
 ![viewveiculotabela](../Evidencias/Desafio-Dimensional/dimveiculo.png)
 
-Por fim, criei a **tabela `fato_locacao`**, que contém todos os registros numéricos necessários para o modelo, e relacionei com as demais tabelas atravé do Join.
+Por fim, criei a **tabela `fato_locacao`**, que contém todos os registros numéricos necessários para o modelo, e relacionei com as demais tabelas através do Join.
 
 ![viewfato](../Evidencias/Desafio-Dimensional/fatolocacao.png)
 
@@ -104,7 +104,7 @@ tabela gerada após a execução da view:
 ![viewfatotabela](../Evidencias/Desafio-Dimensional/fato2.png)
 
 
-Como resultado, o modelo dimensional final ficou conforme ilustrado na imagem abaixo:
+Como resultado, o modelo dimensional final ficou conforme a imagem abaixo:
 
 ![modelodimensional](../Evidencias/Desafio-Dimensional/modelodimensional.png)
 
