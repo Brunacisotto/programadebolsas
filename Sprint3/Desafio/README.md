@@ -86,7 +86,7 @@ Para este passo, foquei no campo `Price`, realizando as seguintes análises:
 
 3. Lista dos **10 apps pagos mais instalados**, considerando apenas nomes únicos, suas categorias e preços.
 
-![top10](../Evidencias/execucoes/ev21.png)
+![top10](../Evidencias/execucoes/ev26.png)
 
 ---
 
@@ -119,6 +119,6 @@ Além disso, por curiosidade, explorei:
 ## Conclusão
 Este desafio foi uma experiência enriquecedora e me permitiu consolidar conhecimentos adquiridos sobre **análise de dados, visualização e tratamento de informações**. A prática com Python e suas bibliotecas reforçou minha compreensão sobre o potencial da análise de dados no suporte a decisões estratégicas.
 
-O arquivo executável desse desafio (notebook Jupyter) encontra-se disponível [aqui](#).
+O arquivo executável desse desafio (notebook Jupyter) encontra-se disponível no link abaixo.
 
 ![jupyter](../Desafio/desafiosprint3.ipynb)
