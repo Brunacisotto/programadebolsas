@@ -95,8 +95,7 @@ Os dois gráficos adicionais criados foram:
 1. **Gráfico de dispersão:** Relacionando a quantidade de aplicativos pagos versus gratuitos.
 
 ![codgraficodisp](../Evidencias/execucoes/ev25.png)
-![graficodisp](../Evidencias/graficos/graficodispersao.png
-
+![graficodisp](../Evidencias/graficos/graficodisp.png)
 
 2. **Gráfico de linhas:** Mostrando a variação de preços entre os 10 aplicativos pagos mais instalados.
 
