@@ -1,6 +1,7 @@
 # Desafio Sprint 3
 
 ## Objetivo
+
 O desafio da Sprint 3 consistiu em **ler, processar, analisar e gerar gráficos** a partir dos dados fornecidos em um arquivo `.csv`, que continha informações sobre aplicativos da Google Play Store.
 
 Embora eu esteja aprendendo Python e suas bibliotecas durante essa Sprint, e os conceitos ainda sejam novos para mim, devo dizer que **amei fazer esse desafio**. Foi incrível descobrir as possibilidades de análise de dados, tornando este o desafio que mais gostei de trabalhar até agora no programa de bolsas.
