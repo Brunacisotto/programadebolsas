@@ -43,7 +43,7 @@ Respostas dos exercícios da loja
 
 ### exercícios exportados para .csv
 
-Os dois exercícios porpostos, em que os arquivos deveriam ser exportados para a extensao .csv
+Os dois exercícios propostos, em que os arquivos deveriam ser exportados para a extensao .csv
 
 [codigo da execucao dos dois exercícios](../Sprint2/Exercicios/exercicios.csv/codigoexercicio.sql)
 
@@ -52,6 +52,7 @@ Os dois exercícios porpostos, em que os arquivos deveriam ser exportados para a
 
 ## Evidências
 ### biblioteca Udemy
+
 A seguir seguem as evidencias da execução dos exercícios biblioteca
 
 ![exercício1](../Sprint2/Exercicios/biblioteca/evidencias/exercicio01.png)
@@ -63,6 +64,7 @@ A seguir seguem as evidencias da execução dos exercícios biblioteca
 ![exercício7](../Sprint2/Exercicios/biblioteca/evidencias/exercicio07.png)
 
 ### loja Udemy
+
 A seguir seguem as evidencias da execução dos exercícios loja
 
 ![exercício8](../Sprint2/Exercicios/loja/evidencias/exercicio08.png)
