@@ -59,7 +59,7 @@ Utilizei o código abaixo para determinar qual aplicativo possuía o maior preç
 ![maiscaro](../Evidencias/execucoes/ev14.png)
 
 ---
-### **Passo 5: Mostrar a quantidade de Apps que eram classificados como “Mature 17+”
+### **Passo 5: Mostrar a quantidade de Apps que eram classificados como “Mature 17+”**
 
 ![mature](../Evidencias/execucoes/ev15.png)
 
