@@ -18,6 +18,10 @@ No curso de Python para iniciantes, eu aprendi os fundamentos da linguagem, como
 
 No curso Parceiros da AWS: Aspectos Econômicos da Nuvem, aprendi sobre as vantagens financeiras de adotar a nuvem AWS, como o modelo de pagamento conforme o uso, a escalabilidade e a diminuição dos custos operacionais. Compreendi como auxiliar os clientes a otimizar seus investimentos em TI, explorando estratégias eficientes, como a utilização de instâncias reservadas, a otimização de recursos disponíveis e o alinhamento entre as demandas de negócios e as soluções fornecidas pela nuvem.
 
+### Métodos ágeis de A a Z
+
+Fiz o curso de Métodos Ágeis, ao longo das três primeiras sprints e nele resumidamente aprendi a aplicar práticas e princípios fundamentais para a gestão eficiente de projetos, com foco em flexibilidade, colaboração e entrega contínua de valor. Através do estudo de metodologias como Scrum, Kanban e Lean, compreendi como essas abordagens podem melhorar a produtividade das equipes e garantir que os projetos atendam às necessidades dos clientes de maneira mais eficaz. Também vi a importância de trabalhar de forma iterativa, priorizando a comunicação constante e a adaptação rápida às mudanças. Esse curso me proporcionou uma visão mais clara de como otimizar processos e aumentar a eficiência em ambientes dinâmicos, habilidades que são extremamente valiosas para qualquer profissional que deseje se destacar no mercado de trabalho atual.
+
 ## Exercícios
 ### Udemy 1.2
 
