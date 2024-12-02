@@ -49,8 +49,10 @@ Sim! Depois que um container para de ser executado, podemos reiniciá-lo e reuti
    docker ps -a
 
 2. **Dar um start para a reutilização do container desejado**
+    ```bash
     docker start <ID_DO_CONTAINER>
     ou
+    ```bash
     docker start -a -i <ID_DO_CONTAINER> para iniciar esse container de maneira interativa no terminal
 
 ## **Etapa 3: Desenvolvimento e Execução do Script**
@@ -102,7 +104,7 @@ Os arquivos Dockerfile e Python para a execução desse desafio podem ser encont
 
 ![readmeetapa2](../Desafio/Etapa1e2/questionamentos.md)
 
-![dockerfileetapa2](../Desafio/Etapa3/Dockerfile)
+![dockerfileetapa3](../Desafio/Etapa3/Dockerfile)
 
 ![pythonetapa3](../Desafio/Etapa3/desafio.py)
 
