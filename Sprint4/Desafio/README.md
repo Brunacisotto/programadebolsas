@@ -52,7 +52,6 @@ Sim! Depois que um container para de ser executado, podemos reiniciá-lo e reuti
     ```bash
     docker start <ID_DO_CONTAINER>
     ou
-    ```bash
     docker start -a -i <ID_DO_CONTAINER> para iniciar esse container de maneira interativa no terminal
 
 ## **Etapa 3: Desenvolvimento e Execução do Script**
