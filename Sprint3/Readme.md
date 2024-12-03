@@ -109,5 +109,6 @@ A seguir seguem as evidencias da execução dos exercícios 2.2 (segunda sessão
 ![exercício25](../Sprint3/Exercicios/exercicios2.2/imagem/ex25.png)
 
 
+
 ## Certificados
-![certificado](../Sprint3/Certificados/awsaspectoseconomicos.pdf)
+![curso AWS](../Sprint3/Certificados/awsaspectoseconomicos.pdf)
