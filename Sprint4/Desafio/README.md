@@ -54,7 +54,8 @@ Sim! Depois que um container para de ser executado e esta parado, podemos reinic
     ou
     docker start -a -i <ID_DO_CONTAINER> para iniciar esse container de maneira interativa no terminal
 
-   ![reutilização](../Evidencias/evidencias1e2/03reutilizacao.png)
+ ![reutilizacao](../Evidencias/evidencias1e2/03reutilizacao.png) 
+ 
 
 ## **Etapa 3: Desenvolvimento e Execução do Script**
 
