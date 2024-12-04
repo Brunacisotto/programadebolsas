@@ -110,6 +110,8 @@ Os arquivos Dockerfile e Python para a execução desse desafio podem ser encont
 
 ![pythonetapa3](../Desafio/Etapa3/desafio.py)
 
+![respostaetapa2](../Desafio/Etapa2/questionamentos.md)
+
 
 
 
