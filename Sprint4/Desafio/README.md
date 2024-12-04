@@ -39,7 +39,7 @@ Em seguida, executei o container a partir da imagem criada, assegurando que o c�
 ## **Etapa 2: Reutilização de Containers**
 
 É possível reutilizar containers?
-Sim! Depois que um container para de ser executado e estar parado, podemos reiniciá-lo e reutilizá-lo utilizando o comando `start`.
+Sim! Depois que um container para de ser executado e esta parado, podemos reiniciá-lo e reutilizá-lo utilizando o comando `start`.
 
 ### Passos para Reutilizar Containers:
 
@@ -53,6 +53,8 @@ Sim! Depois que um container para de ser executado e estar parado, podemos reini
     docker start <ID_DO_CONTAINER>
     ou
     docker start -a -i <ID_DO_CONTAINER> para iniciar esse container de maneira interativa no terminal
+
+   ![reutilização](../Evidencias/evidencias1e2/03reutilizacao.png)
 
 ## **Etapa 3: Desenvolvimento e Execução do Script**
 
