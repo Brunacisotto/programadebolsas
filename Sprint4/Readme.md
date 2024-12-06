@@ -60,5 +60,7 @@ A seguir seguem as evidencias da execução dos exercícios.
 ![exercício7](../Sprint4/Exercicios/imagens/ex07.png)
 
 ## Certificados
-![curso AWS](../Sprint4/Certificados/awscredenciamentotecnico.pdf)
+![curso AWS credenciamento](../Sprint4/Certificados/awscredenciamentotecnico.pdf)
+![curso AWS tecnical essencials](../Sprint4/Certificados/awstecnicalessencials.pdf)
+
 
