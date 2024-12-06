@@ -29,9 +29,13 @@ Segue o arquivo `Dockerfile` criado:
 
 Após concluir o desenvolvimento do arquivo **Dockerfile**, realizei a construção da imagem com o comando build. 
 
+o comando que executei foi o docker build -t carguru-image .
+
 ![imagem](../Evidencias/evidencias1e2/01imagem.png)
 
 Em seguida, executei o container a partir da imagem criada, assegurando que o código fosse executado corretamente.
+
+o comando que executei foi o docker run -i -t carguru-image
 
 ![imagemcontainer](../Evidencias/evidencias1e2/02criandocontainer.png)
 ---
@@ -85,9 +89,13 @@ Para criar uma imagem Docker chamada **mascarar-dados**, utilizei o seguinte **D
 
  Construi a imagem Docker.
 
+ o comando que executei foi o docker build -t mascarar-dados .
+
 ![imagem](../Evidencias/evidencias3/02criacaoimagem.png)
 
 Rodei um container a partir da imagem, enviando palavras para o mascaramento.
+
+o comando que executei foi o docker run -i -t mascarar-dados 
 
 ![container](../Evidencias/evidencias3/03rodandocontainer.png)
 
