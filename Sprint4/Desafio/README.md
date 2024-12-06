@@ -110,15 +110,15 @@ Depois reutilizei o container e fiz algumas execuções adicionais.
 
 Os arquivos Dockerfile e Python para a execução desse desafio podem ser encontrados aqui:
 
-![dockerfileetapa1](../Desafio/Etapa1e2/Dockerfile)
+![dockerfileetapa1](../Desafio/Etapa1/Dockerfile) 
 
-![readmeetapa2](../Desafio/Etapa1e2/questionamentos.md)
+![readmeetapa2](../Desafio/Etapa2/questionamentos.md)
 
 ![dockerfileetapa3](../Desafio/Etapa3/Dockerfile)
 
 ![pythonetapa3](../Desafio/Etapa3/desafio.py)
 
-![respostaetapa2](../Desafio/Etapa2/questionamentos.md)
+
 
 
 
