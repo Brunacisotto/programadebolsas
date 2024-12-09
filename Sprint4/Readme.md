@@ -6,25 +6,13 @@ Segue um breve resumo de cada curso dessa Sprint:
 
 #### Programação Funcional com Python
 
-O curso de **Programação Funcional com Python** proporcionou uma introdução a conceitos fundamentais desse paradigma, que visa tratar as funções como valores e prioriza a evitabilidade de mudanças de estado, promovendo um código mais limpo e previsível. Durante o curso, explorei diversos conceitos importantes, incluindo:
-
-- **Funções Lambda**: Funções anônimas, ou seja, sem nome, que são usadas para criar operações simples e concisas, frequentemente passadas como argumentos para outras funções.
-- **Map**: A função `map()` aplica uma função a cada item de um iterável (como listas ou outras coleções), retornando um novo iterável com os resultados. Essa ferramenta facilita a aplicação de transformações de forma eficiente e funcional.
-- **Composição de Funções**: A composição de funções consiste em combinar várias funções para formar uma nova, permitindo maior modularidade e reutilização de código.
-- **Imutabilidade**: A imutabilidade é um conceito essencial no paradigma funcional, que sugere que os dados não devem ser modificados após a sua criação. Isso contribui para a previsibilidade do código, reduzindo efeitos colaterais indesejados.
-- **Abordagem Imperativa x Funcional**: O curso também comparou as abordagens imperativa e funcional, destacando as vantagens da programação funcional, como a clareza e a redução de erros relacionados ao estado mutável.
+O curso de **Programação Funcional com Python** proporcionou uma introdução a conceitos fundamentais desse paradigma, que visa tratar as funções como valores e prioriza a evitabilidade de mudanças de estado, promovendo um código mais limpo e previsível. Durante o curso, explorei diversos conceitos importantes, incluindo: Funções Lambda, map, composição de funções, imutabilidade e abordagem imperativa x funcional.
 
 Com base no que aprendi, planejo aprofundar meus estudos nesse assunto, buscando uma compreensão mais detalhada das técnicas e melhores práticas da programação funcional, com o objetivo de aplicá-las efetivamente em projetos futuros.
 
 #### Docker
 
-O curso de **Docker** me proporcionou uma compreensão sólida sobre como utilizar essa ferramenta para facilitar o desenvolvimento e a gestão de ambientes isolados. Durante o treinamento, aprendi a trabalhar com diversas funcionalidades essenciais, incluindo:
-
-- **Criação de Imagens**: O curso abordou como criar e personalizar imagens Docker, que são fundamentais para a criação de containers consistentes e portáveis. A construção de imagens eficientes e a utilização de Dockerfiles foram tópicos essenciais para garantir que as imagens atendam às necessidades específicas dos meus projetos.
-- **Gerenciamento de Containers**: Através do Docker, aprendi a criar, executar e gerenciar containers, que permitem isolar e executar aplicações de forma independente e consistente em qualquer ambiente. Compreendi os benefícios dessa abordagem, como a facilidade de replicação e a independência do sistema operacional subjacente.
-- **Desenvolvimento de Volumes**: O uso de volumes Docker foi abordado para persistência de dados em containers. Isso permite que dados importantes sejam preservados, mesmo após o ciclo de vida de um container, além de possibilitar o compartilhamento de dados entre containers de forma eficiente.
-- **Orquestração de Containers**: O curso também incluiu uma introdução à orquestração de containers, ensinando como gerenciar múltiplos containers em sistemas complexos. A utilização de ferramentas como o Docker Compose foi abordada para facilitar a configuração e a gestão de ambientes compostos por vários containers.
-- **Revisão de Comandos Linux**: Aproveitei a oportunidade para revisar comandos essenciais do Linux, uma vez que a interação com o Docker frequentemente envolve a utilização de comandos do terminal. Essa revisão foi fundamental para aumentar minha familiaridade com a linha de comando e melhorar minha eficiência ao trabalhar com Docker.
+O curso de **Docker** me proporcionou uma compreensão sólida sobre como utilizar essa ferramenta para facilitar o desenvolvimento e a gestão de ambientes isolados. Durante o treinamento, aprendi a trabalhar com diversas funcionalidades essenciais, incluindo: criação de imagens, gerenciamento de containers, desenvolvimento de volumes, orquestração de containers e revisão de comandos Linux, (aproveitei a oportunidade para revisar comandos essenciais do Linux, uma vez que a interação com o Docker frequentemente envolve a utilização de comandos do terminal). Essa revisão foi fundamental para aumentar minha familiaridade com a linha de comando e melhorar minha eficiência ao trabalhar com Docker.
 
 Com o aprendizado adquirido, estou mais capacitada para aplicar o Docker em projetos reais, otimizando o desenvolvimento e a implantação de aplicações de maneira escalável e eficiente.
 
