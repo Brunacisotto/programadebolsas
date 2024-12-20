@@ -58,12 +58,12 @@ Esta atividade proporcionou uma visão prática e aplicável do uso de buckets n
 
 O link para esse bucket está aqui:
 
-[arnbucket] arn:aws:s3:::exercicio-sprint5
-[linkbucket] https://exercicio-sprint5.s3.us-east-1.amazonaws.com/
+arn:aws:s3:::exercicio-sprint5
+https://exercicio-sprint5.s3.us-east-1.amazonaws.com/
 
-o end point do site está aqui:
+o endpoint do site está aqui:
 
-[endpoint] http://exercicio-sprint5.s3-website-us-east-1.amazonaws.com
+http://exercicio-sprint5.s3-website-us-east-1.amazonaws.com
 
 
 
@@ -74,6 +74,6 @@ Foi uma sprint cheia de desafios e novos aprendizados. A experiência prática p
 ## **Certificados**
 
 [badgecloudquest](../Sprint5/Certificados/linkbadge.txt)
-[badgeclouquestlink] https://www.credly.com/badges/b08ef381-bd55-4c1c-8196-201757093383/public_url
+ https://www.credly.com/badges/b08ef381-bd55-4c1c-8196-201757093383/public_url
 [cloudquestprint](../Sprint5/Certificados/capturadetelaclouquest.png)
 
