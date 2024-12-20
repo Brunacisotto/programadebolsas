@@ -156,6 +156,7 @@ O arquivo final gerado foi enviado de volta ao bucket S3 para armazenamento.
 
 O Link para meu bucket da AWS:
 
+[txtlink](../Desafio/linkparabucket.txt)
 [linkbucket](https://desafio-sprint5.s3.us-east-1.amazonaws.com/uploads/)
 [arn](arn:aws:s3:::desafio-sprint5)
 

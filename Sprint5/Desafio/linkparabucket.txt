@@ -1,0 +1,4 @@
+arn:aws:s3:::desafio-sprint5
+
+https://desafio-sprint5.s3.us-east-1.amazonaws.com/uploads/
+
