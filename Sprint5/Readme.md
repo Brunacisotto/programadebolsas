@@ -80,3 +80,4 @@ Cloud quest
 [cloudquestprint](../Sprint5/Certificados/capturadetelaclouquest.png)
 
 Curso Preparatório para o Exame AWS Certified Cloud Practitioner
+[awsskillbuilder](../Sprint5/Certificados/AWS%20Skill%20Builder%20Course%20Completion%20Certificate.pdf)
