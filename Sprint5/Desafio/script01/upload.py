@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[26]:
+# In[1]:
 
 
 import boto3
@@ -12,7 +12,22 @@ session = boto3.Session(profile_name='AdministratorAccess-794038242332')
 s3 = session.client('s3')
 
 
-# In[27]:
+# In[4]:
+
+
+bucket_name = "desafio-sprint5"
+region = "us-east-1"
+
+try:
+    response = s3.create_bucket(
+        Bucket=bucket_name,
+          )
+    print(f"Bucket '{bucket_name}' criado com sucesso.")
+except Exception as e:
+    print(f"Erro ao criar o bucket: {e}")
+
+
+# In[5]:
 
 
 # Listar buckets disponíveis

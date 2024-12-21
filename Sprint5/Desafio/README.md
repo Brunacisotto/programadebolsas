@@ -24,6 +24,8 @@ Na análise proposta, busquei responder à seguinte questão:
    - Listagem dos buckets disponíveis na AWS.  
    - Definição de parâmetros para upload do arquivo.  
 
+   ![criaçaobucket](../Evidencias/tratamento%20de%20dados/criacaobucket.png)
+
    ![passo1](../Evidencias/tratamento%20de%20dados/tratamento00.png)
 
    
@@ -144,14 +146,11 @@ O arquivo final gerado foi enviado de volta ao bucket S3 para armazenamento.
 
  Os scripts gerados se encontram aqui:
 
-[script1py](../Desafio/script01/uploadaws.py)
+[script1py](../Desafio/script01/upload.py)
 [script1ipynb](../Desafio/script01/upload.ipynb)
 
-[script2py](../Desafio/script02/desafiosprint5limpeza.py)
+[script2py](../Desafio/script02/desafiosprint5.py)
 [script2ipynb](../Desafio/script02/desafiosprint5.ipynb)
-
-[script3py](../Desafio/script03/analisedeafio5.py)
-[script3ipynb](../Desafio/script03/analisedeafio5.ipynb)
 
 
 O Link para meu bucket da AWS:

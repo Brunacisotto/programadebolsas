@@ -73,7 +73,10 @@ Foi uma sprint cheia de desafios e novos aprendizados. A experiência prática p
 
 ## **Certificados**
 
+Cloud quest
+
 [badgecloudquest](../Sprint5/Certificados/linkbadge.txt)
  https://www.credly.com/badges/b08ef381-bd55-4c1c-8196-201757093383/public_url
 [cloudquestprint](../Sprint5/Certificados/capturadetelaclouquest.png)
 
+Curso Preparatório para o Exame AWS Certified Cloud Practitioner
