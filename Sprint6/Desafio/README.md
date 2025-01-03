@@ -50,9 +50,9 @@ E um arquivo requirements com as bibliotecas necessárias.
 
 ![requirements](../Evidencias/docker04.png)
 
-Depois criei a imagem
+Depois criei o Dockerfile
 
-[imagem](../Desafio/Dockerfile)
+[Dockerfile](../Desafio/Dockerfile)
 
 A partir dai estava pronta para criar o container:
 
@@ -60,23 +60,22 @@ A partir dai estava pronta para criar o container:
 
 ![desafio7](../Evidencias/docker02.png)
 
-![desafio8](../Evidencias/docker03.png)
 
 4. Executar o container localmente, garantindo a ingestão bem-sucedida dos arquivos no bucket S3.
 
-![desafio9](../Evidencias/docker03.png)
+![desafio8](../Evidencias/docker03.png)
 
 Bucket na AWS 
 
-![desafio10](../Evidencias/bucket.png)
+![desafio9](../Evidencias/bucket.png)
 
 Essa é a URL dos Buckets:
 
-[linkmovies](s3://desafiofinal-filmeseseries/raw/local/csv/movies/2024-12-31/movies.csv)
+s3://desafiofinal-filmeseseries/raw/local/csv/movies/2024-12-31/movies.csv
 
-[linkseries](s3://desafiofinal-filmeseseries/raw/local/csv/series/2024-12-31/series.csv)
+s3://desafiofinal-filmeseseries/raw/local/csv/series/2024-12-31/series.csv
 
-[arn](arn:aws:s3:::desafiofinal-filmeseseries)
+arn:aws:s3:::desafiofinal-filmeseseries
 
 Aqui estão os arquivos Dockerfile e PY
 
