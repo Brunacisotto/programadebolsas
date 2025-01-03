@@ -3,13 +3,6 @@
 ## Introdução
 Nesta Sprint, fomos introduzidos a vários serviços da AWS, incluindo Glue, Lambda e Athena. Também iniciamos o desafio final do programa de bolsas. 
 
-### Squad e Tema
-Pertenco ao **Squad 6**, cujo tema do desafio final é **Terror/Mistério**. Com base neste tema, as perguntas que pretendo responder no desafio final são:
-
-1. Na década de 80, quais foram os 20 filmes mais populares do gênero?
-2. Qual foi o valor médio gasto nessas produções?
-3. Qual diretor obteve mais premiações?
-
 Segue um breve resumo de cada curso realizado e as evidências dos exercícios concluídos.
 
 ---
