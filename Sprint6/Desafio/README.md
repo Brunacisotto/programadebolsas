@@ -36,7 +36,14 @@ Li os arquivos movies e series
 
 2. Configurar um caminho específico de diretórios no bucket para organização dos arquivos.  
 
+Criei a função upload_s3 para simplificar o envio dos arquivos para o S3 fazendo isso em etapas 
+Essa função inclui a data de processamento no caminho do S3, extrai o nome do arquivo parar criar o caminho no bucket, e faz o upload do arquivo com o caminho definido
+
 ![desafio4](../Evidencias/script04.png)
+
+Com o If __name__ == “__main__” quis garantir que esse script só será executado se for rodado diretamente
+E não se for importado por outro script
+Defini o nome do bucket, a camada e o local e chamei a função upload_s3 para enviar os arquivos 
 
 ![desafio5](../Evidencias/script06.png)
 
@@ -53,6 +60,8 @@ E um arquivo requirements com as bibliotecas necessárias.
 Depois criei o Dockerfile
 
 [Dockerfile](../Desafio/Dockerfile)
+
+![dockerfileprint](../Evidencias/dockerfileprint.png)
 
 A partir dai estava pronta para criar o container:
 
