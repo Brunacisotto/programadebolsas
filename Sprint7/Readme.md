@@ -18,6 +18,7 @@ Neste exercício, trabalhamos com um modelo de requisição à API do TMDb, prat
 [arquivopytmdb](../Sprint7/Exercicios/exercicio%20tmdb/extmdb.py)
 
 [arquivogerado](../Sprint7/Exercicios/exercicio%20tmdb/filmes_top_rated.csv)
+
 ---
 
 ## Exercício com AWS Glue
@@ -67,7 +68,11 @@ Recebemos um modelo passo a passo para criar um job no Glue. Posteriormente, des
 
 ![gluemodelo20](../Sprint7/Exercicios/exercicio%20glue/glue20.png)
 
-Politica Iam 
+Resultado no Bucket
+
+![gluemodelo21](../Sprint7/Exercicios/exercicio%20glue/glue21.png)
+
+Configurações para frequencia de nomes 
 
 ![glue01](../Sprint7/Exercicios/exercicio%20glue/glue22.png)
 
@@ -76,12 +81,6 @@ Politica Iam
 ![glue03](../Sprint7/Exercicios/exercicio%20glue/glue24.png)
 
 ![glue04](../Sprint7/Exercicios/exercicio%20glue/glue25.png)
-
-Resultado no Bucket
-
-![gluemodelo21](../Sprint7/Exercicios/exercicio%20glue/glue21.png)
-
-Configurando Crawler 
 
 ![glue05](../Sprint7/Exercicios/exercicio%20glue/glue26.png)
 
