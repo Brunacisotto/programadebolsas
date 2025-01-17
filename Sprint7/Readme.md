@@ -86,8 +86,6 @@ Configurações para frequencia de nomes
 
 ![glue06](../Sprint7/Exercicios/exercicio%20glue/glue27.png)
 
-![glue07](../Sprint7/Exercicios/exercicio%20glue/glue28.png)
-
 Athena 
 
 ![glue08](../Sprint7/Exercicios/exercicio%20glue/glue29.png)
@@ -114,9 +112,17 @@ Resultado Glue no bucket
 
 [gluemeucodigo](../Sprint7/Exercicios/exercicio%20glue/codigos/exglue.py)
 
-[arquivosgerados](../Sprint7/Exercicios/exercicio%20glue/arquivos/1b413f4c-92a2-4c66-9495-4e89978551dd.csv)
+aqui está o link do bucket com os registros de nomes femininos:
 
-[arquivosgerados2](../Sprint7/Exercicios/exercicio%20glue/arquivos/91a3d5fe-9d4b-4adf-80cd-4b1ddde2e966.csv)
+s3://exercicio-sprint7/lab-glue/frequencia_registro_nomes_eua/sexo=F/
+
+aqui está o link do bucket com os registros de nomes masculinos:
+
+s3://exercicio-sprint7/lab-glue/frequencia_registro_nomes_eua/sexo=M/
+
+[arquivosgeradosexecucaocrawler](../Sprint7/Exercicios/exercicio%20glue/arquivos/1b413f4c-92a2-4c66-9495-4e89978551dd.csv)
+
+[arquivosgeradosexecucaocrawler2](../Sprint7/Exercicios/exercicio%20glue/arquivos/91a3d5fe-9d4b-4adf-80cd-4b1ddde2e966.csv)
 
 
 ---
