@@ -1,0 +1,2015 @@
+[
+    {
+        "id": 16288,
+        "production_companies": [
+            "New World Pictures",
+            "Laurel Entertainment",
+            "RLJ Entertainment"
+        ],
+        "imdb_id": "tt0092796",
+        "popularity": 17.858,
+        "revenue": 14000000,
+        "budget": 3500000,
+        "job": "Short Story",
+        "department": "Writing",
+        "keywords": [
+            "lake",
+            "based on novel or book",
+            "gore",
+            "hit-and-run",
+            "anthology",
+            "revenge",
+            "murder",
+            "blob",
+            "hitchhiker",
+            "zombie",
+            "playful",
+            "hilarious",
+            "admiring",
+            "frightened"
+        ],
+        "director": "Michael Gornick"
+    },
+    {
+        "id": 874167,
+        "production_companies": [
+            "Alamo Drafthouse",
+            "University of Kent (UK)",
+            "Alexander Onassis Public Benefit Foundation",
+            "Square Eyes"
+        ],
+        "imdb_id": "tt15528116",
+        "popularity": 2.682,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Author",
+        "department": "Writing",
+        "keywords": [],
+        "director": "Aristotelis Maragkos"
+    },
+    {
+        "id": 432804,
+        "production_companies": [],
+        "imdb_id": "tt2199723",
+        "popularity": 2.124,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Original Story",
+        "department": "Writing",
+        "keywords": [],
+        "director": "Christopher Birk"
+    },
+    {
+        "id": 10163,
+        "production_companies": [
+            "Allied Vision",
+            "New Line Cinema"
+        ],
+        "imdb_id": "tt0104692",
+        "popularity": 15.584,
+        "revenue": 32100816,
+        "budget": 10000000,
+        "job": "Short Story",
+        "department": "Writing",
+        "keywords": [
+            "dreams",
+            "virtual reality",
+            "technology",
+            "chimp",
+            "manipulation",
+            "botanist",
+            "lemonade",
+            "revenge",
+            "cyberpunk",
+            "scientist",
+            "cyberspace",
+            "surveillance",
+            "based on short story",
+            "intelligent",
+            "world domination",
+            "supernatural power"
+        ],
+        "director": "Brett Leonard"
+    },
+    {
+        "id": 723419,
+        "production_companies": [
+            "Ryan Murphy Television",
+            "Blumhouse Television"
+        ],
+        "imdb_id": "tt12908110",
+        "popularity": 40.152,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Executive Producer",
+        "department": "Production",
+        "keywords": [
+            "small town",
+            "materialism",
+            "coming of age",
+            "grief",
+            "based on short story",
+            "iphone",
+            "adaptation",
+            "stephen king"
+        ],
+        "director": "John Lee Hancock"
+    },
+    {
+        "id": 723419,
+        "production_companies": [
+            "Ryan Murphy Television",
+            "Blumhouse Television"
+        ],
+        "imdb_id": "tt12908110",
+        "popularity": 40.152,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Short Story",
+        "department": "Writing",
+        "keywords": [
+            "small town",
+            "materialism",
+            "coming of age",
+            "grief",
+            "based on short story",
+            "iphone",
+            "adaptation",
+            "stephen king"
+        ],
+        "director": "John Lee Hancock"
+    },
+    {
+        "id": 25748,
+        "production_companies": [
+            "Fifth Avenue Entertainment",
+            "Corn Cobb Productions",
+            "Dimension Films"
+        ],
+        "imdb_id": "tt0106557",
+        "popularity": 15.684,
+        "revenue": 6980986,
+        "budget": 900000,
+        "job": "Short Story",
+        "department": "Writing",
+        "keywords": [
+            "possession",
+            "sequel",
+            "priest",
+            "corn",
+            "harvest"
+        ],
+        "director": "David Price"
+    },
+    {
+        "id": 25749,
+        "production_companies": [
+            "Trans Atlantic Entertainment",
+            "Park Avenue Productions",
+            "Force Majeure Productions",
+            "Illustra Films",
+            "Dimension Films"
+        ],
+        "imdb_id": "tt0109415",
+        "popularity": 14.697,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Short Story",
+        "department": "Writing",
+        "keywords": [
+            "chicago, illinois",
+            "cult",
+            "telekinesis",
+            "sequel",
+            "priest",
+            "religion",
+            "super power",
+            "corn",
+            "killer scarecrow",
+            "killer child",
+            "dream within a dream"
+        ],
+        "director": "James D.R. Hickox"
+    },
+    {
+        "id": 25750,
+        "production_companies": [
+            "Dimension Films"
+        ],
+        "imdb_id": "tt0115885",
+        "popularity": 7.487,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Short Story",
+        "department": "Writing",
+        "keywords": [
+            "sheriff",
+            "barn",
+            "sequel",
+            "slasher",
+            "preacher",
+            "corn"
+        ],
+        "director": "Greg Spence"
+    },
+    {
+        "id": 252374,
+        "production_companies": [
+            "Lazy Donkey Films"
+        ],
+        "imdb_id": "tt2150468",
+        "popularity": 0.388,
+        "revenue": 0,
+        "budget": 65,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [
+            "short film",
+            "dollar baby"
+        ],
+        "director": "Scott Crain"
+    },
+    {
+        "id": 353491,
+        "production_companies": [
+            "Columbia Pictures",
+            "MRC",
+            "Imagine Entertainment",
+            "Weed Road Pictures"
+        ],
+        "imdb_id": "tt1648190",
+        "popularity": 65.942,
+        "revenue": 113231078,
+        "budget": 60000000,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [
+            "mind control",
+            "gunslinger",
+            "based on novel or book",
+            "portal",
+            "parallel world",
+            "another world"
+        ],
+        "director": "Nikolaj Arcel"
+    },
+    {
+        "id": 497,
+        "production_companies": [
+            "Castle Rock Entertainment",
+            "Darkwoods Productions"
+        ],
+        "imdb_id": "tt0120689",
+        "popularity": 79.768,
+        "revenue": 286801374,
+        "budget": 60000000,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [
+            "mentally disabled",
+            "based on novel or book",
+            "southern usa",
+            "psychopath",
+            "death row",
+            "jail guard",
+            "supernatural",
+            "great depression",
+            "prison guard",
+            "jail",
+            "electric chair",
+            "torture",
+            "magic realism",
+            "healing",
+            "hopeless",
+            "grim",
+            "1930s",
+            "abuse of power",
+            "inspirational",
+            "authoritarian",
+            "demeaning",
+            "pessimistic"
+        ],
+        "director": "Frank Darabont"
+    },
+    {
+        "id": 1032602,
+        "production_companies": [
+            "Universal Pictures"
+        ],
+        "imdb_id": "tt22075542",
+        "popularity": 0.929,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [],
+        "director": "Paul Greengrass"
+    },
+    {
+        "id": 375569,
+        "production_companies": [
+            "Touchstone Television",
+            "Mark Carliner Productions",
+            "Sony Pictures Television"
+        ],
+        "imdb_id": "tt0324864",
+        "popularity": 7.568,
+        "revenue": 0,
+        "budget": 37,
+        "job": "Writer",
+        "department": "Writing",
+        "keywords": [
+            "remake",
+            "hospital",
+            "macabre",
+            "curious",
+            "haunted hospital",
+            "baffled",
+            "frightened"
+        ],
+        "director": "Craig R. Baxley"
+    },
+    {
+        "id": 281621,
+        "production_companies": [],
+        "imdb_id": "tt0414215",
+        "popularity": 2.154,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Short Story",
+        "department": "Writing",
+        "keywords": [],
+        "director": "James Gonis"
+    },
+    {
+        "id": 5876,
+        "production_companies": [
+            "Darkwoods Productions"
+        ],
+        "imdb_id": "tt0884328",
+        "popularity": 43.119,
+        "revenue": 57470220,
+        "budget": 18000000,
+        "job": "Thanks",
+        "department": "Crew",
+        "keywords": [
+            "monster",
+            "based on novel or book",
+            "supermarket",
+            "fight",
+            "faith",
+            "prayer",
+            "artist",
+            "spider",
+            "fog",
+            "bible",
+            "giant monster",
+            "survival",
+            "disaster",
+            "anger",
+            "thunderstorm",
+            "father son relationship"
+        ],
+        "director": "Frank Darabont"
+    },
+    {
+        "id": 11428,
+        "production_companies": [
+            "Columbia Pictures",
+            "Victor & Grais Productions",
+            "Ion Pictures"
+        ],
+        "imdb_id": "tt0105428",
+        "popularity": 24.812,
+        "revenue": 30524764,
+        "budget": 15000000,
+        "job": "Writer",
+        "department": "Writing",
+        "keywords": [
+            "based on novel or book",
+            "cop-killer",
+            "cat",
+            "killing",
+            "transformation",
+            "black humor",
+            "incest",
+            "morphing",
+            "mother son relationship",
+            "animal transformation",
+            "cats"
+        ],
+        "director": "Mick Garris"
+    },
+    {
+        "id": 36560,
+        "production_companies": [
+            "Laurel Entertainment"
+        ],
+        "imdb_id": "tt0101206",
+        "popularity": 8.813,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Writer",
+        "department": "Writing",
+        "keywords": [
+            "miniseries"
+        ],
+        "director": "Michael Gornick"
+    },
+    {
+        "id": 873325,
+        "production_companies": [
+            "Lionsgate"
+        ],
+        "imdb_id": "tt9805322",
+        "popularity": 0.976,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [],
+        "director": "Alistair Legrand"
+    },
+    {
+        "id": 642283,
+        "production_companies": [],
+        "imdb_id": "tt6208762",
+        "popularity": 1.047,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Short Story",
+        "department": "Writing",
+        "keywords": [],
+        "director": "Jesse James Marshall"
+    },
+    {
+        "id": 1233822,
+        "production_companies": [
+            "Velvet Iguana Pictures"
+        ],
+        "imdb_id": "tt0883380",
+        "popularity": 1.188,
+        "revenue": 0,
+        "budget": 15000,
+        "job": "Story",
+        "department": "Writing",
+        "keywords": [
+            "vampire",
+            "child kidnapping",
+            "short film",
+            "independent film",
+            "dollar baby"
+        ],
+        "director": "Brian Haynes"
+    },
+    {
+        "id": 1233822,
+        "production_companies": [
+            "Velvet Iguana Pictures"
+        ],
+        "imdb_id": "tt0883380",
+        "popularity": 1.188,
+        "revenue": 0,
+        "budget": 15000,
+        "job": "Short Story",
+        "department": "Writing",
+        "keywords": [
+            "vampire",
+            "child kidnapping",
+            "short film",
+            "independent film",
+            "dollar baby"
+        ],
+        "director": "Brian Haynes"
+    },
+    {
+        "id": 346364,
+        "production_companies": [
+            "New Line Cinema",
+            "Vertigo Entertainment",
+            "Lin Pictures",
+            "KatzSmith Productions"
+        ],
+        "imdb_id": "tt1396484",
+        "popularity": 56.833,
+        "revenue": 703000000,
+        "budget": 35000000,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [
+            "small town",
+            "based on novel or book",
+            "clown",
+            "bullying",
+            "abandoned house",
+            "coming of age",
+            "flashback",
+            "murder",
+            "balloon",
+            "maine",
+            "school",
+            "creature",
+            "fear",
+            "summer",
+            "killer",
+            "missing person",
+            "death of brother",
+            "well",
+            "child",
+            "demonic",
+            "town history"
+        ],
+        "director": "Andy Muschietti"
+    },
+    {
+        "id": 497,
+        "production_companies": [
+            "Castle Rock Entertainment",
+            "Darkwoods Productions"
+        ],
+        "imdb_id": "tt0120689",
+        "popularity": 79.768,
+        "revenue": 286801374,
+        "budget": 60000000,
+        "job": "Thanks",
+        "department": "Crew",
+        "keywords": [
+            "mentally disabled",
+            "based on novel or book",
+            "southern usa",
+            "psychopath",
+            "death row",
+            "jail guard",
+            "supernatural",
+            "great depression",
+            "prison guard",
+            "jail",
+            "electric chair",
+            "torture",
+            "magic realism",
+            "healing",
+            "hopeless",
+            "grim",
+            "1930s",
+            "abuse of power",
+            "inspirational",
+            "authoritarian",
+            "demeaning",
+            "pessimistic"
+        ],
+        "director": "Frank Darabont"
+    },
+    {
+        "id": 606832,
+        "production_companies": [
+            "Fright Rags",
+            "Fuzz on the Lens Productions",
+            "Tetraknot"
+        ],
+        "imdb_id": "tt8933030",
+        "popularity": 3.426,
+        "revenue": 0,
+        "budget": 5000,
+        "job": "Characters",
+        "department": "Writing",
+        "keywords": [
+            "based on novel or book",
+            "evil clown",
+            "short film"
+        ],
+        "director": "Ryan Grulich"
+    },
+    {
+        "id": 278,
+        "production_companies": [
+            "Castle Rock Entertainment"
+        ],
+        "imdb_id": "tt0111161",
+        "popularity": 159.018,
+        "revenue": 28341469,
+        "budget": 25000000,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [
+            "prison",
+            "friendship",
+            "police brutality",
+            "corruption",
+            "based on novel or book",
+            "freedom",
+            "hope",
+            "prison cell",
+            "delinquent",
+            "redemption",
+            "parole board",
+            "prison escape",
+            "wrongful imprisonment",
+            "interracial friendship",
+            "framed for murder",
+            "1940s",
+            "voiceover",
+            "ambiguous"
+        ],
+        "director": "Frank Darabont"
+    },
+    {
+        "id": 418434,
+        "production_companies": [],
+        "imdb_id": "",
+        "popularity": 3.542,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Original Concept",
+        "department": "Writing",
+        "keywords": [],
+        "director": "Srinivas Reddy Vuyyuru"
+    },
+    {
+        "id": 168098,
+        "production_companies": [
+            "Cargo Entertainment",
+            "120dB Films",
+            "Benaroya Pictures",
+            "The Genre Co.",
+            "International Film Trust"
+        ],
+        "imdb_id": "tt0775440",
+        "popularity": 22.407,
+        "revenue": 1133031,
+        "budget": 0,
+        "job": "Screenplay",
+        "department": "Writing",
+        "keywords": [
+            "suicide",
+            "airport",
+            "based on novel or book",
+            "boston, massachusetts",
+            "drive-in theater",
+            "murder",
+            "cell phone",
+            "ice cream truck",
+            "virus",
+            "hostile",
+            "somber",
+            "intense",
+            "frightened"
+        ],
+        "director": "Tod Williams"
+    },
+    {
+        "id": 1241456,
+        "production_companies": [
+            "Batata Filmes"
+        ],
+        "imdb_id": "tt31174244",
+        "popularity": 1.104,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Short Story",
+        "department": "Writing",
+        "keywords": [
+            "milkman",
+            "short film",
+            "adaptation",
+            "stephen king"
+        ],
+        "director": "Jonathan Rodrigues"
+    },
+    {
+        "id": 873323,
+        "production_companies": [
+            "Lionsgate"
+        ],
+        "imdb_id": null,
+        "popularity": 1.876,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Short Story",
+        "department": "Writing",
+        "keywords": [],
+        "director": "N/A"
+    },
+    {
+        "id": 1249897,
+        "production_companies": [
+            "Lionsgate"
+        ],
+        "imdb_id": null,
+        "popularity": 0.882,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [
+            "coma",
+            "based on novel or book",
+            "remake",
+            "supernatural horror"
+        ],
+        "director": "N/A"
+    },
+    {
+        "id": 1250135,
+        "production_companies": [
+            "Parkside Pictures"
+        ],
+        "imdb_id": "tt3708140",
+        "popularity": 0.829,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Short Story",
+        "department": "Writing",
+        "keywords": [
+            "bully",
+            "based on short story"
+        ],
+        "director": "Laurent Bouzereau"
+    },
+    {
+        "id": 897465,
+        "production_companies": [],
+        "imdb_id": "tt4453152",
+        "popularity": 2.554,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Thanks",
+        "department": "Crew",
+        "keywords": [],
+        "director": "Constantine Nasr"
+    },
+    {
+        "id": 343674,
+        "production_companies": [
+            "Intrepid Pictures"
+        ],
+        "imdb_id": "tt3748172",
+        "popularity": 22.275,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [
+            "child abuse",
+            "based on novel or book",
+            "childhood trauma",
+            "sorrow",
+            "car accident",
+            "eclipse",
+            "dog",
+            "ghost",
+            "memoirs"
+        ],
+        "director": "Mike Flanagan"
+    },
+    {
+        "id": 1082388,
+        "production_companies": [
+            "Warner Bros. Pictures",
+            "Bad Robot",
+            "Appian Way"
+        ],
+        "imdb_id": "tt17543692",
+        "popularity": 1.508,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [],
+        "director": "N/A"
+    },
+    {
+        "id": 1260173,
+        "production_companies": [
+            "Ludovico Pictures",
+            "Silver Octopus Productions"
+        ],
+        "imdb_id": null,
+        "popularity": 1.234,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Story",
+        "department": "Writing",
+        "keywords": [],
+        "director": "Danny Donnelly"
+    },
+    {
+        "id": 1087102,
+        "production_companies": [
+            "19th Edition Films",
+            "The Raven Flies West Films"
+        ],
+        "imdb_id": "tt25995788",
+        "popularity": 1.195,
+        "revenue": 0,
+        "budget": 10000,
+        "job": "Short Story",
+        "department": "Writing",
+        "keywords": [
+            "suicide",
+            "short film"
+        ],
+        "director": "Warren Duncan"
+    },
+    {
+        "id": 396538,
+        "production_companies": [
+            "Kyivnaukfilm"
+        ],
+        "imdb_id": "tt0487172",
+        "popularity": 1.832,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Short Story",
+        "department": "Writing",
+        "keywords": [
+            "rotoscoping",
+            "based on short story",
+            "hired killer",
+            "short film",
+            "animation",
+            "animated",
+            "dollar baby"
+        ],
+        "director": "Михайло Тітов"
+    },
+    {
+        "id": 455016,
+        "production_companies": [],
+        "imdb_id": "tt4522960",
+        "popularity": 0.707,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Short Story",
+        "department": "Writing",
+        "keywords": [
+            "space",
+            "astronaut",
+            "disease",
+            "based on short story",
+            "short film",
+            "dollar baby"
+        ],
+        "director": "Robin Kasparik"
+    },
+    {
+        "id": 352128,
+        "production_companies": [
+            "The Lloyd Segan Company",
+            "Piller2",
+            "Lionsgate Television"
+        ],
+        "imdb_id": "tt0341334",
+        "popularity": 4.272,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [
+            "coma",
+            "based on novel or book",
+            "remake",
+            "vision",
+            "car accident",
+            "school teacher"
+        ],
+        "director": "Rob Lieberman"
+    },
+    {
+        "id": 353491,
+        "production_companies": [
+            "Columbia Pictures",
+            "MRC",
+            "Imagine Entertainment",
+            "Weed Road Pictures"
+        ],
+        "imdb_id": "tt1648190",
+        "popularity": 65.942,
+        "revenue": 113231078,
+        "budget": 60000000,
+        "job": "Producer",
+        "department": "Production",
+        "keywords": [
+            "mind control",
+            "gunslinger",
+            "based on novel or book",
+            "portal",
+            "parallel world",
+            "another world"
+        ],
+        "director": "Nikolaj Arcel"
+    },
+    {
+        "id": 25754,
+        "production_companies": [
+            "Children of the Corn Productions",
+            "Planet Productions"
+        ],
+        "imdb_id": "tt1290135",
+        "popularity": 7.455,
+        "revenue": 0,
+        "budget": 4500000,
+        "job": "Screenplay",
+        "department": "Writing",
+        "keywords": [
+            "ritual",
+            "king"
+        ],
+        "director": "Donald P. Borchers"
+    },
+    {
+        "id": 475326,
+        "production_companies": [
+            "Das Films",
+            "Bread & Circuses Entertainment",
+            "Voltage Pictures"
+        ],
+        "imdb_id": "tt7374916",
+        "popularity": 0.848,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Short Story",
+        "department": "Writing",
+        "keywords": [
+            "based on short story",
+            "doppelgänger"
+        ],
+        "director": "Sean Carter"
+    },
+    {
+        "id": 1068430,
+        "production_companies": [
+            "Savannah College of Art and Design"
+        ],
+        "imdb_id": "tt6983020",
+        "popularity": 1.865,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Short Story",
+        "department": "Writing",
+        "keywords": [
+            "killing",
+            "hitchhiker",
+            "whodunit",
+            "based on short story",
+            "unreliable narrator",
+            "mysterious"
+        ],
+        "director": "Michael Carvaines"
+    },
+    {
+        "id": 474350,
+        "production_companies": [
+            "New Line Cinema",
+            "Vertigo Entertainment",
+            "Double Dream",
+            "Rideback"
+        ],
+        "imdb_id": "tt7349950",
+        "popularity": 65.287,
+        "revenue": 473123154,
+        "budget": 79000000,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [
+            "based on novel or book",
+            "clown",
+            "carnival",
+            "sequel",
+            "remake",
+            "maine",
+            "creature",
+            "fear",
+            "lgbt",
+            "ancient evil",
+            "loss of a friend"
+        ],
+        "director": "Andy Muschietti"
+    },
+    {
+        "id": 452507,
+        "production_companies": [
+            "Campfire Studios",
+            "Lighthouse Pictures"
+        ],
+        "imdb_id": "tt6214928",
+        "popularity": 16.272,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [
+            "based on novel or book",
+            "parent child relationship",
+            "greed",
+            "ranch",
+            "haunted house",
+            "haunting",
+            "hallucination",
+            "murder",
+            "corpse",
+            "cynical",
+            "guilt",
+            "vengeful ghost",
+            "farmer",
+            "stealing money",
+            "hidden corpse",
+            "rat",
+            "guilty conscience",
+            "hopeless",
+            "grim",
+            "cautionary",
+            "cornfield",
+            "callous",
+            "horrified"
+        ],
+        "director": "Zak Hilditch"
+    },
+    {
+        "id": 488444,
+        "production_companies": [
+            "Kings Ransom",
+            "Upstart Film Collective"
+        ],
+        "imdb_id": "tt0330697",
+        "popularity": 1.618,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Book",
+        "department": "Writing",
+        "keywords": [
+            "based on novel or book",
+            "new hampshire",
+            "short film",
+            "dollar baby"
+        ],
+        "director": "Peter Sullivan"
+    },
+    {
+        "id": 157433,
+        "production_companies": [
+            "di Bonaventura Pictures",
+            "Paramount Pictures"
+        ],
+        "imdb_id": "tt0837563",
+        "popularity": 43.759,
+        "revenue": 113118226,
+        "budget": 21000000,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [
+            "husband wife relationship",
+            "countryside",
+            "based on novel or book",
+            "cat",
+            "remake",
+            "tragedy",
+            "maine",
+            "zombie",
+            "pet cemetery",
+            "indian burial ground",
+            "neighbor neighbor relationship",
+            "pets",
+            "father daughter relationship",
+            "traumatized woman"
+        ],
+        "director": "Dennis Widmyer"
+    },
+    {
+        "id": 17898,
+        "production_companies": [
+            "International Film Corporation (II)",
+            "Famous Films Productions",
+            "Paramount Pictures",
+            "DDL Cinematografica"
+        ],
+        "imdb_id": "tt0090021",
+        "popularity": 17.492,
+        "revenue": 12400000,
+        "budget": 7000000,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [
+            "based on novel or book",
+            "maine",
+            "werewolf"
+        ],
+        "director": "Daniel Attias"
+    },
+    {
+        "id": 11313,
+        "production_companies": [
+            "Castle Rock Entertainment",
+            "Village Roadshow Pictures",
+            "Warner Bros. Pictures",
+            "NPV Entertainment"
+        ],
+        "imdb_id": "tt0252501",
+        "popularity": 11.271,
+        "revenue": 24185781,
+        "budget": 31000000,
+        "job": "Book",
+        "department": "Writing",
+        "keywords": [
+            "pool billiards",
+            "american football",
+            "baseball bat",
+            "richard nixon",
+            "psychic power",
+            "wager",
+            "lingerie slip",
+            "single mother",
+            "informant",
+            "stranger",
+            "childhood",
+            "childhood friends",
+            "ferris wheel",
+            "straw hat",
+            "mysterious stranger",
+            "low men",
+            "bronko nagurski",
+            "culvert",
+            "floating on inner tube",
+            "wind chime",
+            "jack of spades",
+            "clairvoyant"
+        ],
+        "director": "Scott Hicks"
+    },
+    {
+        "id": 501170,
+        "production_companies": [
+            "Vertigo Entertainment",
+            "Intrepid Pictures",
+            "Warner Bros. Pictures"
+        ],
+        "imdb_id": "tt5606664",
+        "popularity": 33.194,
+        "revenue": 72381712,
+        "budget": 45000000,
+        "job": "Executive Producer",
+        "department": "Production",
+        "keywords": [
+            "based on novel or book",
+            "supernatural",
+            "haunted house",
+            "melancholy",
+            "sequel",
+            "psychic power",
+            "macabre",
+            "frantic",
+            "reflective",
+            "cautionary",
+            "dramatic",
+            "suspenseful",
+            "tense",
+            "compassionate",
+            "tragic"
+        ],
+        "director": "Mike Flanagan"
+    },
+    {
+        "id": 1124620,
+        "production_companies": [
+            "Atomic Monster",
+            "C2 Motion Picture Group",
+            "Range Media Partners",
+            "Oddfellows Entertainment",
+            "Black Bear Pictures",
+            "The Safran Company",
+            "Stars Collective"
+        ],
+        "imdb_id": "tt27714946",
+        "popularity": 25.037,
+        "revenue": 0,
+        "budget": 10000000,
+        "job": "Short Story",
+        "department": "Writing",
+        "keywords": [
+            "supernatural",
+            "drums",
+            "dark comedy",
+            "gore",
+            "twins",
+            "monkey",
+            "exploding body",
+            "death",
+            "evil",
+            "based on short story",
+            "cursed",
+            "horror comedy",
+            "toy monkey",
+            "supernatural horror",
+            "brothers",
+            "toy",
+            "cursed object",
+            "horror",
+            "comedy",
+            "scary"
+        ],
+        "director": "Osgood Perkins"
+    },
+    {
+        "id": 445710,
+        "production_companies": [
+            "Dimension Films"
+        ],
+        "imdb_id": "tt5565634",
+        "popularity": 5.662,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Characters",
+        "department": "Writing",
+        "keywords": [
+            "small town",
+            "sacrifice",
+            "sequel",
+            "human sacrifice",
+            "religious cult",
+            "killer children"
+        ],
+        "director": "John Gulager"
+    },
+    {
+        "id": 842924,
+        "production_companies": [
+            "Intrepid Pictures",
+            "QWGmire",
+            "Red Room Pictures"
+        ],
+        "imdb_id": "tt12908150",
+        "popularity": 9.52,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Short Story",
+        "department": "Writing",
+        "keywords": [],
+        "director": "Mike Flanagan"
+    },
+    {
+        "id": 278,
+        "production_companies": [
+            "Castle Rock Entertainment"
+        ],
+        "imdb_id": "tt0111161",
+        "popularity": 159.018,
+        "revenue": 28341469,
+        "budget": 25000000,
+        "job": "Thanks",
+        "department": "Crew",
+        "keywords": [
+            "prison",
+            "friendship",
+            "police brutality",
+            "corruption",
+            "based on novel or book",
+            "freedom",
+            "hope",
+            "prison cell",
+            "delinquent",
+            "redemption",
+            "parole board",
+            "prison escape",
+            "wrongful imprisonment",
+            "interracial friendship",
+            "framed for murder",
+            "1940s",
+            "voiceover",
+            "ambiguous"
+        ],
+        "director": "Frank Darabont"
+    },
+    {
+        "id": 10004,
+        "production_companies": [
+            "Touchstone Television",
+            "Sennet Entertainment"
+        ],
+        "imdb_id": "tt0129871",
+        "popularity": 19.016,
+        "revenue": 0,
+        "budget": 12000000,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [
+            "sheriff",
+            "psychopath",
+            "nevada",
+            "highway",
+            "serial killer"
+        ],
+        "director": "Mick Garris"
+    },
+    {
+        "id": 10004,
+        "production_companies": [
+            "Touchstone Television",
+            "Sennet Entertainment"
+        ],
+        "imdb_id": "tt0129871",
+        "popularity": 19.016,
+        "revenue": 0,
+        "budget": 12000000,
+        "job": "Teleplay",
+        "department": "Writing",
+        "keywords": [
+            "sheriff",
+            "psychopath",
+            "nevada",
+            "highway",
+            "serial killer"
+        ],
+        "director": "Mick Garris"
+    },
+    {
+        "id": 1309231,
+        "production_companies": [],
+        "imdb_id": "tt11023192",
+        "popularity": 0.882,
+        "revenue": 0,
+        "budget": 9500,
+        "job": "Writer",
+        "department": "Writing",
+        "keywords": [],
+        "director": "Red Clark"
+    },
+    {
+        "id": 1309257,
+        "production_companies": [],
+        "imdb_id": "tt2431910",
+        "popularity": 1.272,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Writer",
+        "department": "Writing",
+        "keywords": [
+            "short film"
+        ],
+        "director": "Jenny Januszewski"
+    },
+    {
+        "id": 822148,
+        "production_companies": [
+            "1130 Media"
+        ],
+        "imdb_id": "tt10687032",
+        "popularity": 0.937,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Story",
+        "department": "Writing",
+        "keywords": [
+            "short film",
+            "dollar baby"
+        ],
+        "director": "Brian Johnson"
+    },
+    {
+        "id": 1047135,
+        "production_companies": [],
+        "imdb_id": "tt1825885",
+        "popularity": 1.032,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Writer",
+        "department": "Writing",
+        "keywords": [
+            "winter",
+            "iowa",
+            "rural setting"
+        ],
+        "director": "Kristian Day"
+    },
+    {
+        "id": 1309509,
+        "production_companies": [],
+        "imdb_id": "tt3667848",
+        "popularity": 0.896,
+        "revenue": 0,
+        "budget": 10000,
+        "job": "Writer",
+        "department": "Writing",
+        "keywords": [],
+        "director": "Tony Pomfret"
+    },
+    {
+        "id": 1309535,
+        "production_companies": [],
+        "imdb_id": "tt4077266",
+        "popularity": 0.637,
+        "revenue": 0,
+        "budget": 1000,
+        "job": "Writer",
+        "department": "Writing",
+        "keywords": [],
+        "director": "Oren Benamor"
+    },
+    {
+        "id": 603564,
+        "production_companies": [
+            "Big Time Films"
+        ],
+        "imdb_id": "tt6818626",
+        "popularity": 1.019,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Writer",
+        "department": "Writing",
+        "keywords": [
+            "short film",
+            "dollar baby"
+        ],
+        "director": "Александр Домогаров мл."
+    },
+    {
+        "id": 353082,
+        "production_companies": [
+            "Suffer Productions, LLC."
+        ],
+        "imdb_id": "tt0819806",
+        "popularity": 1.018,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Writer",
+        "department": "Writing",
+        "keywords": [
+            "short film"
+        ],
+        "director": "Bernardo Villela"
+    },
+    {
+        "id": 1310668,
+        "production_companies": [
+            "Bonfire Films"
+        ],
+        "imdb_id": "tt5039600",
+        "popularity": 0.692,
+        "revenue": 0,
+        "budget": 8500,
+        "job": "Writer",
+        "department": "Writing",
+        "keywords": [
+            "short film",
+            "dollar baby"
+        ],
+        "director": "Corey Norman"
+    },
+    {
+        "id": 1310678,
+        "production_companies": [],
+        "imdb_id": "tt5561962",
+        "popularity": 1.709,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Writer",
+        "department": "Writing",
+        "keywords": [],
+        "director": "Filip Terlecki"
+    },
+    {
+        "id": 1310748,
+        "production_companies": [],
+        "imdb_id": "tt2728704",
+        "popularity": 1.216,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Writer",
+        "department": "Writing",
+        "keywords": [
+            "short film",
+            "dollar baby"
+        ],
+        "director": "Mando Franco"
+    },
+    {
+        "id": 1312032,
+        "production_companies": [
+            "Starving Dogs Productions"
+        ],
+        "imdb_id": "tt0479068",
+        "popularity": 0.605,
+        "revenue": 0,
+        "budget": 1500,
+        "job": "Story",
+        "department": "Writing",
+        "keywords": [
+            "short film",
+            "dollar baby"
+        ],
+        "director": "Shawn S. Lealos"
+    },
+    {
+        "id": 1310789,
+        "production_companies": [
+            "Fiction Sphere"
+        ],
+        "imdb_id": "tt4680298",
+        "popularity": 1.181,
+        "revenue": 0,
+        "budget": 1000,
+        "job": "Writer",
+        "department": "Writing",
+        "keywords": [
+            "short film",
+            "dollar baby"
+        ],
+        "director": "Stephen Hyams"
+    },
+    {
+        "id": 479284,
+        "production_companies": [],
+        "imdb_id": "tt1569937",
+        "popularity": 2.857,
+        "revenue": 0,
+        "budget": 15000,
+        "job": "Story",
+        "department": "Writing",
+        "keywords": [
+            "transformation",
+            "short film",
+            "dollar baby"
+        ],
+        "director": "James B. Cox"
+    },
+    {
+        "id": 1312121,
+        "production_companies": [],
+        "imdb_id": "tt3996830",
+        "popularity": 1.215,
+        "revenue": 0,
+        "budget": 2000,
+        "job": "Story",
+        "department": "Writing",
+        "keywords": [],
+        "director": "Michael Floyd"
+    },
+    {
+        "id": 1020625,
+        "production_companies": [],
+        "imdb_id": "tt13977112",
+        "popularity": 0.907,
+        "revenue": 0,
+        "budget": 500,
+        "job": "Story",
+        "department": "Writing",
+        "keywords": [],
+        "director": "Noah Bunyan"
+    },
+    {
+        "id": 854160,
+        "production_companies": [],
+        "imdb_id": "tt6849784",
+        "popularity": 0.589,
+        "revenue": 0,
+        "budget": 32000,
+        "job": "Story",
+        "department": "Writing",
+        "keywords": [
+            "short film",
+            "dollar baby"
+        ],
+        "director": "Joseph Horning"
+    },
+    {
+        "id": 523139,
+        "production_companies": [
+            "Copperheart Entertainment",
+            "Mosaic"
+        ],
+        "imdb_id": "tt4687108",
+        "popularity": 19.65,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [
+            "based on novel or book",
+            "maze",
+            "pregnant woman",
+            "father son relationship",
+            "brother sister relationship",
+            "grass field"
+        ],
+        "director": "Vincenzo Natali"
+    },
+    {
+        "id": 1312196,
+        "production_companies": [],
+        "imdb_id": "tt5243616",
+        "popularity": 0.848,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Story",
+        "department": "Writing",
+        "keywords": [
+            "short film",
+            "dollar baby"
+        ],
+        "director": "Jacob Norlin"
+    },
+    {
+        "id": 1312208,
+        "production_companies": [
+            "KLM Productions"
+        ],
+        "imdb_id": "tt7231814",
+        "popularity": 1.317,
+        "revenue": 0,
+        "budget": 12000,
+        "job": "Story",
+        "department": "Writing",
+        "keywords": [
+            "short film",
+            "dollar baby"
+        ],
+        "director": "Kristina Leath"
+    },
+    {
+        "id": 865,
+        "production_companies": [
+            "Braveworld Productions",
+            "Keith Barish Productions",
+            "TAFT Entertainment Pictures",
+            "TriStar Pictures",
+            "HBO"
+        ],
+        "imdb_id": "tt0093894",
+        "popularity": 24.714,
+        "revenue": 38122105,
+        "budget": 27000000,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [
+            "prison",
+            "based on novel or book",
+            "chase",
+            "dystopia",
+            "post-apocalyptic future",
+            "hunting human beings",
+            "game show",
+            "macabre",
+            "paranoid",
+            "death game",
+            "authoritarian"
+        ],
+        "director": "Paul Michael Glaser"
+    },
+    {
+        "id": 974320,
+        "production_companies": [
+            "The APB"
+        ],
+        "imdb_id": "tt16452334",
+        "popularity": 1.947,
+        "revenue": 0,
+        "budget": 50000,
+        "job": "Original Concept",
+        "department": "Writing",
+        "keywords": [
+            "short film",
+            "dollar baby"
+        ],
+        "director": "Spencer Sherry"
+    },
+    {
+        "id": 860484,
+        "production_companies": [],
+        "imdb_id": "tt13951046",
+        "popularity": 2.865,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [],
+        "director": "N/A"
+    },
+    {
+        "id": 1309954,
+        "production_companies": [
+            "Introfilms Producciones"
+        ],
+        "imdb_id": "tt7625122",
+        "popularity": 2.36,
+        "revenue": 0,
+        "budget": 1500,
+        "job": "Writer",
+        "department": "Writing",
+        "keywords": [
+            "dollar baby"
+        ],
+        "director": "Nicolás Lorca"
+    },
+    {
+        "id": 1312477,
+        "production_companies": [
+            "Whisky Wolf Productions"
+        ],
+        "imdb_id": "tt18271884",
+        "popularity": 1.304,
+        "revenue": 0,
+        "budget": 45000,
+        "job": "Story",
+        "department": "Writing",
+        "keywords": [
+            "short film",
+            "dollar baby"
+        ],
+        "director": "David Jester"
+    },
+    {
+        "id": 1312532,
+        "production_companies": [
+            "Original Cinematic"
+        ],
+        "imdb_id": "tt22732474",
+        "popularity": 0.694,
+        "revenue": 0,
+        "budget": 27950,
+        "job": "Story",
+        "department": "Writing",
+        "keywords": [
+            "short film",
+            "dollar baby"
+        ],
+        "director": "William R A Rush"
+    },
+    {
+        "id": 1310002,
+        "production_companies": [],
+        "imdb_id": "tt1636742",
+        "popularity": 0.477,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Writer",
+        "department": "Writing",
+        "keywords": [
+            "dollar baby"
+        ],
+        "director": "Jeven Dovey"
+    },
+    {
+        "id": 1312542,
+        "production_companies": [
+            "Bedazzle Inclusive Productions",
+            "Inclusivity Films"
+        ],
+        "imdb_id": "tt24768596",
+        "popularity": 0.537,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Story",
+        "department": "Writing",
+        "keywords": [
+            "short film",
+            "inclusive",
+            "dollar baby"
+        ],
+        "director": "Sarah Leigh"
+    },
+    {
+        "id": 1310017,
+        "production_companies": [
+            "Empire Motion Pictures"
+        ],
+        "imdb_id": "tt3068816",
+        "popularity": 0.876,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Writer",
+        "department": "Writing",
+        "keywords": [
+            "dollar baby"
+        ],
+        "director": "Ranjeet S. Marwa"
+    },
+    {
+        "id": 1310028,
+        "production_companies": [
+            "Crystal Frame",
+            "New Bulgarian University",
+            "Nu Boyana Film Studios"
+        ],
+        "imdb_id": "tt3508462",
+        "popularity": 0.997,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Writer",
+        "department": "Writing",
+        "keywords": [
+            "dollar baby"
+        ],
+        "director": "Lyubo Yonchev"
+    },
+    {
+        "id": 1083171,
+        "production_companies": [],
+        "imdb_id": "tt13623954",
+        "popularity": 1.035,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Writer",
+        "department": "Writing",
+        "keywords": [
+            "dollar baby"
+        ],
+        "director": "A.J. Gribble"
+    },
+    {
+        "id": 1312570,
+        "production_companies": [
+            "Royal Shakespeare Company"
+        ],
+        "imdb_id": "tt19850354",
+        "popularity": 1.772,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Story",
+        "department": "Writing",
+        "keywords": [
+            "high school",
+            "based on novel or book",
+            "telekinesis",
+            "based on movie",
+            "zealot",
+            "abusive mother",
+            "school bullying",
+            "religious fanaticism",
+            "musical proshot"
+        ],
+        "director": "Terry Hands"
+    },
+    {
+        "id": 1312584,
+        "production_companies": [],
+        "imdb_id": null,
+        "popularity": 1.165,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Story",
+        "department": "Writing",
+        "keywords": [
+            "short film",
+            "dollar baby"
+        ],
+        "director": "Adrian Warren"
+    },
+    {
+        "id": 1312609,
+        "production_companies": [
+            "Got Films",
+            "Wayfinder Films"
+        ],
+        "imdb_id": "tt1583728",
+        "popularity": 1.257,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Story",
+        "department": "Writing",
+        "keywords": [
+            "short film",
+            "dollar baby"
+        ],
+        "director": "Juan Pablo Reinoso"
+    },
+    {
+        "id": 288281,
+        "production_companies": [
+            "Reno Productions"
+        ],
+        "imdb_id": "tt2180994",
+        "popularity": 13.399,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [
+            "series of murders",
+            "psychotic",
+            "shocking",
+            "cautionary",
+            "serious",
+            "intense",
+            "horrified"
+        ],
+        "director": "Peter Askin"
+    },
+    {
+        "id": 1310286,
+        "production_companies": [],
+        "imdb_id": "tt17519760",
+        "popularity": 0.48,
+        "revenue": 0,
+        "budget": 100,
+        "job": "Writer",
+        "department": "Writing",
+        "keywords": [
+            "short film",
+            "dollar baby"
+        ],
+        "director": "Zach Speed"
+    },
+    {
+        "id": 1310288,
+        "production_companies": [],
+        "imdb_id": "tt12476242",
+        "popularity": 1.19,
+        "revenue": 0,
+        "budget": 11000,
+        "job": "Writer",
+        "department": "Writing",
+        "keywords": [
+            "short film",
+            "dollar baby"
+        ],
+        "director": "Amy Nigro"
+    },
+    {
+        "id": 1068444,
+        "production_companies": [],
+        "imdb_id": "tt17519692",
+        "popularity": 0.942,
+        "revenue": 0,
+        "budget": 100,
+        "job": "Writer",
+        "department": "Writing",
+        "keywords": [],
+        "director": "Justin Tackett"
+    },
+    {
+        "id": 1310322,
+        "production_companies": [],
+        "imdb_id": "tt32096073",
+        "popularity": 0.864,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Writer",
+        "department": "Writing",
+        "keywords": [
+            "black and white",
+            "student film",
+            "experimental",
+            "dollar baby"
+        ],
+        "director": "Cooper Wood"
+    },
+    {
+        "id": 690451,
+        "production_companies": [
+            "Night Frizz Productions"
+        ],
+        "imdb_id": "tt10206662",
+        "popularity": 0.897,
+        "revenue": 0,
+        "budget": 18000,
+        "job": "Writer",
+        "department": "Writing",
+        "keywords": [
+            "short film",
+            "dollar baby"
+        ],
+        "director": "Jennifer Trudrung"
+    },
+    {
+        "id": 1310350,
+        "production_companies": [
+            "Studio 104"
+        ],
+        "imdb_id": "tt6896170",
+        "popularity": 1.162,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Writer",
+        "department": "Writing",
+        "keywords": [
+            "short film",
+            "dollar baby"
+        ],
+        "director": "Michael Johnston"
+    },
+    {
+        "id": 1065563,
+        "production_companies": [],
+        "imdb_id": "tt7870380",
+        "popularity": 0.981,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Writer",
+        "department": "Writing",
+        "keywords": [],
+        "director": "Daniel Leahey"
+    },
+    {
+        "id": 1310368,
+        "production_companies": [],
+        "imdb_id": "tt3165330",
+        "popularity": 0.876,
+        "revenue": 0,
+        "budget": 3500,
+        "job": "Writer",
+        "department": "Writing",
+        "keywords": [
+            "short film",
+            "dollar baby"
+        ],
+        "director": "Scott Crain"
+    }
+]

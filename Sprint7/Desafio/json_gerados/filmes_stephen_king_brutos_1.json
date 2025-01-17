@@ -1,0 +1,2238 @@
+[
+    {
+        "id": 36560,
+        "production_companies": [
+            "Laurel Entertainment"
+        ],
+        "imdb_id": "tt0101206",
+        "popularity": 8.813,
+        "revenue": 0,
+        "budget": 0,
+        "job": "N/A",
+        "department": "N/A",
+        "keywords": [
+            "miniseries"
+        ],
+        "director": "Michael Gornick"
+    },
+    {
+        "id": 22167,
+        "production_companies": [
+            "Laurel Entertainment",
+            "United Film Distribution Company (UFDC)"
+        ],
+        "imdb_id": "tt0082622",
+        "popularity": 12.303,
+        "revenue": 0,
+        "budget": 3000000,
+        "job": "N/A",
+        "department": "N/A",
+        "keywords": [
+            "knight",
+            "motorcycle",
+            "jousting",
+            "troupe",
+            "magician",
+            "bikers",
+            "renaissance troupe",
+            "renaissance faire"
+        ],
+        "director": "George A. Romero"
+    },
+    {
+        "id": 16281,
+        "production_companies": [
+            "Laurel Entertainment",
+            "United Film Distribution Company (UFDC)"
+        ],
+        "imdb_id": "tt0083767",
+        "popularity": 20.447,
+        "revenue": 21028755,
+        "budget": 8000000,
+        "job": "N/A",
+        "department": "N/A",
+        "keywords": [
+            "monster",
+            "halloween",
+            "gore",
+            "meteor",
+            "buried alive",
+            "cockroach",
+            "based on comic",
+            "anthology",
+            "animated scene",
+            "zombie",
+            "living dead"
+        ],
+        "director": "George A. Romero"
+    },
+    {
+        "id": 16288,
+        "production_companies": [
+            "New World Pictures",
+            "Laurel Entertainment",
+            "RLJ Entertainment"
+        ],
+        "imdb_id": "tt0092796",
+        "popularity": 17.858,
+        "revenue": 14000000,
+        "budget": 3500000,
+        "job": "N/A",
+        "department": "N/A",
+        "keywords": [
+            "lake",
+            "based on novel or book",
+            "gore",
+            "hit-and-run",
+            "anthology",
+            "revenge",
+            "murder",
+            "blob",
+            "hitchhiker",
+            "zombie",
+            "playful",
+            "hilarious",
+            "admiring",
+            "frightened"
+        ],
+        "director": "Michael Gornick"
+    },
+    {
+        "id": 1013651,
+        "production_companies": [
+            "Les Films de la Plage",
+            "Frakas Productions",
+            "Da Yamms Entertainment",
+            "FilmCore",
+            "Mr Salmon Films",
+            "Shamans Films"
+        ],
+        "imdb_id": "tt13157456",
+        "popularity": 3.366,
+        "revenue": 0,
+        "budget": 0,
+        "job": "N/A",
+        "department": "N/A",
+        "keywords": [
+            "documentary filmmaking",
+            "biographical documentary"
+        ],
+        "director": "Daphné Baiwir"
+    },
+    {
+        "id": 111969,
+        "production_companies": [
+            "Troy Entertainment",
+            "MICA Entertainment",
+            "The Solution",
+            "Informant Films"
+        ],
+        "imdb_id": "tt2205697",
+        "popularity": 28.02,
+        "revenue": 81071,
+        "budget": 0,
+        "job": "N/A",
+        "department": "N/A",
+        "keywords": [
+            "cheating",
+            "parent child relationship",
+            "writing",
+            "thanksgiving",
+            "north carolina",
+            "love",
+            "writer",
+            "dating",
+            "relationship",
+            "drugs",
+            "family",
+            "high school student",
+            "beach house",
+            "novelist",
+            "unhappiness",
+            "first love",
+            "ex-husband ex-wife relationship",
+            "divorced father",
+            "reconnect",
+            "college student",
+            "stuck",
+            "holidays",
+            "affair"
+        ],
+        "director": "Josh Boone"
+    },
+    {
+        "id": 130443,
+        "production_companies": [
+            "Sony Pictures"
+        ],
+        "imdb_id": "tt0365908",
+        "popularity": 2.901,
+        "revenue": 0,
+        "budget": 0,
+        "job": "N/A",
+        "department": "N/A",
+        "keywords": [
+            "documentary filmmaking"
+        ],
+        "director": "Michael Gillis"
+    },
+    {
+        "id": 173458,
+        "production_companies": [
+            "BBC Worldwide"
+        ],
+        "imdb_id": "tt0386051",
+        "popularity": 1.812,
+        "revenue": 0,
+        "budget": 0,
+        "job": "N/A",
+        "department": "N/A",
+        "keywords": [],
+        "director": "David Stewart"
+    },
+    {
+        "id": 216566,
+        "production_companies": [],
+        "imdb_id": "tt0130424",
+        "popularity": 1.983,
+        "revenue": 0,
+        "budget": 0,
+        "job": "N/A",
+        "department": "N/A",
+        "keywords": [],
+        "director": "John Simmons"
+    },
+    {
+        "id": 243051,
+        "production_companies": [],
+        "imdb_id": "tt0397873",
+        "popularity": 0.368,
+        "revenue": 0,
+        "budget": 0,
+        "job": "N/A",
+        "department": "N/A",
+        "keywords": [],
+        "director": "N/A"
+    },
+    {
+        "id": 487429,
+        "production_companies": [
+            "Turtle Bay Entertainment"
+        ],
+        "imdb_id": "tt0458376",
+        "popularity": 1.551,
+        "revenue": 0,
+        "budget": 0,
+        "job": "N/A",
+        "department": "N/A",
+        "keywords": [
+            "based on short story",
+            "short film"
+        ],
+        "director": "Jack Edward Sawyers"
+    },
+    {
+        "id": 874167,
+        "production_companies": [
+            "Alamo Drafthouse",
+            "University of Kent (UK)",
+            "Alexander Onassis Public Benefit Foundation",
+            "Square Eyes"
+        ],
+        "imdb_id": "tt15528116",
+        "popularity": 2.682,
+        "revenue": 0,
+        "budget": 0,
+        "job": "N/A",
+        "department": "N/A",
+        "keywords": [],
+        "director": "Aristotelis Maragkos"
+    },
+    {
+        "id": 897465,
+        "production_companies": [],
+        "imdb_id": "tt4453152",
+        "popularity": 2.554,
+        "revenue": 0,
+        "budget": 0,
+        "job": "N/A",
+        "department": "N/A",
+        "keywords": [],
+        "director": "Constantine Nasr"
+    },
+    {
+        "id": 9980,
+        "production_companies": [
+            "DEG"
+        ],
+        "imdb_id": "tt0091499",
+        "popularity": 21.435,
+        "revenue": 7400000,
+        "budget": 10000000,
+        "job": "N/A",
+        "department": "N/A",
+        "keywords": [
+            "man vs machine",
+            "gas station",
+            "roadhouse",
+            "siege",
+            "lorry",
+            "comet",
+            "automation",
+            "truck",
+            "arcade",
+            "exploding truck",
+            "exploding gasoline station",
+            "inanimate objects come to life"
+        ],
+        "director": "Stephen King"
+    },
+    {
+        "id": 507808,
+        "production_companies": [],
+        "imdb_id": "tt9429520",
+        "popularity": 1.674,
+        "revenue": 0,
+        "budget": 0,
+        "job": "N/A",
+        "department": "N/A",
+        "keywords": [
+            "gun control"
+        ],
+        "director": "Skye Fitzgerald"
+    },
+    {
+        "id": 11431,
+        "production_companies": [
+            "ELC Productions",
+            "Alan Greenspan Productions",
+            "Mars Media Beteiligungs",
+            "Fox 2000 Pictures",
+            "Flower Films",
+            "Wildgaze Films"
+        ],
+        "imdb_id": "tt0332047",
+        "popularity": 23.236,
+        "revenue": 50500000,
+        "budget": 30000000,
+        "job": "N/A",
+        "department": "N/A",
+        "keywords": [
+            "sports",
+            "workaholic",
+            "baseball",
+            "affectation",
+            "fanatic",
+            "relationship problems",
+            "death of father",
+            "teacher",
+            "curse",
+            "dating",
+            "man child",
+            "red sox",
+            "fenway park",
+            "group of friends",
+            "uncle nephew relationship",
+            "nostalgic",
+            "boyfriend girlfriend relationship",
+            "baseball stadium",
+            "world series",
+            "angry",
+            "major league baseball (mlb)",
+            "egotistical",
+            "hilarious",
+            "whimsical",
+            "amused",
+            "antagonistic",
+            "empathetic",
+            "sympathetic",
+            "season tickets",
+            "working toward job promotion"
+        ],
+        "director": "Bobby Farrelly"
+    },
+    {
+        "id": 10280,
+        "production_companies": [
+            "Spelling Films",
+            "Paramount Pictures"
+        ],
+        "imdb_id": "tt0117894",
+        "popularity": 16.587,
+        "revenue": 15315484,
+        "budget": 8000000,
+        "job": "N/A",
+        "department": "N/A",
+        "keywords": [
+            "based on novel or book",
+            "curse",
+            "fat suit",
+            "disturbed"
+        ],
+        "director": "Tom Holland"
+    },
+    {
+        "id": 363377,
+        "production_companies": [
+            "Victor Solnicki Productions"
+        ],
+        "imdb_id": "tt0228187",
+        "popularity": 1.483,
+        "revenue": 0,
+        "budget": 0,
+        "job": "N/A",
+        "department": "N/A",
+        "keywords": [],
+        "director": "Laurens C. Postma"
+    },
+    {
+        "id": 163250,
+        "production_companies": [
+            "Amblin Television",
+            "Turner Classic Movies"
+        ],
+        "imdb_id": "tt2076787",
+        "popularity": 1.402,
+        "revenue": 0,
+        "budget": 0,
+        "job": "N/A",
+        "department": "N/A",
+        "keywords": [],
+        "director": "Laurent Bouzereau"
+    },
+    {
+        "id": 1327541,
+        "production_companies": [],
+        "imdb_id": null,
+        "popularity": 1.874,
+        "revenue": 0,
+        "budget": 0,
+        "job": "N/A",
+        "department": "N/A",
+        "keywords": [],
+        "director": "Theodore Gershuny"
+    },
+    {
+        "id": 1318933,
+        "production_companies": [
+            "Exhibit A Pictures",
+            "Exurbia Films",
+            "Dark Sky Films"
+        ],
+        "imdb_id": "tt33029845",
+        "popularity": 2.05,
+        "revenue": 0,
+        "budget": 0,
+        "job": "N/A",
+        "department": "N/A",
+        "keywords": [],
+        "director": "Alexandre O. Philippe"
+    },
+    {
+        "id": 445499,
+        "production_companies": [],
+        "imdb_id": "",
+        "popularity": 0.95,
+        "revenue": 0,
+        "budget": 0,
+        "job": "N/A",
+        "department": "N/A",
+        "keywords": [],
+        "director": "N/A"
+    },
+    {
+        "id": 448843,
+        "production_companies": [],
+        "imdb_id": "",
+        "popularity": 3.333,
+        "revenue": 0,
+        "budget": 0,
+        "job": "N/A",
+        "department": "N/A",
+        "keywords": [
+            "interview",
+            "trailers"
+        ],
+        "director": "John Simmons"
+    },
+    {
+        "id": 498189,
+        "production_companies": [
+            "RTL"
+        ],
+        "imdb_id": null,
+        "popularity": 1.161,
+        "revenue": 0,
+        "budget": 0,
+        "job": "N/A",
+        "department": "N/A",
+        "keywords": [
+            "carri"
+        ],
+        "director": "N/A"
+    },
+    {
+        "id": 8913,
+        "production_companies": [
+            "Paramount Pictures"
+        ],
+        "imdb_id": "tt0098084",
+        "popularity": 31.809,
+        "revenue": 57500000,
+        "budget": 11500000,
+        "job": "N/A",
+        "department": "N/A",
+        "keywords": [
+            "based on novel or book",
+            "funeral",
+            "parent child relationship",
+            "coffin",
+            "pet",
+            "villain",
+            "head injury",
+            "resurrection",
+            "woods",
+            "grief",
+            "zombie",
+            "new neighbor",
+            "pet cemetery",
+            "dead cat",
+            "death of patient",
+            "loss of pet",
+            "dead lover",
+            "ghost",
+            "grave robbing",
+            "indian burial ground",
+            "woman director",
+            "mysterious",
+            "pets",
+            "somber",
+            "anxious",
+            "supernatural horror",
+            "horrified",
+            "ominous"
+        ],
+        "director": "Mary Lambert"
+    },
+    {
+        "id": 598460,
+        "production_companies": [
+            "Elephant House Studios"
+        ],
+        "imdb_id": null,
+        "popularity": 0.76,
+        "revenue": 0,
+        "budget": 0,
+        "job": "N/A",
+        "department": "N/A",
+        "keywords": [
+            "biography",
+            "horror filmmaking",
+            "horror",
+            "horror writer"
+        ],
+        "director": "Elliot Kew"
+    },
+    {
+        "id": 11428,
+        "production_companies": [
+            "Columbia Pictures",
+            "Victor & Grais Productions",
+            "Ion Pictures"
+        ],
+        "imdb_id": "tt0105428",
+        "popularity": 24.812,
+        "revenue": 30524764,
+        "budget": 15000000,
+        "job": "N/A",
+        "department": "N/A",
+        "keywords": [
+            "based on novel or book",
+            "cop-killer",
+            "cat",
+            "killing",
+            "transformation",
+            "black humor",
+            "incest",
+            "morphing",
+            "mother son relationship",
+            "animal transformation",
+            "cats"
+        ],
+        "director": "Mick Garris"
+    },
+    {
+        "id": 474350,
+        "production_companies": [
+            "New Line Cinema",
+            "Vertigo Entertainment",
+            "Double Dream",
+            "Rideback"
+        ],
+        "imdb_id": "tt7349950",
+        "popularity": 65.287,
+        "revenue": 473123154,
+        "budget": 79000000,
+        "job": "N/A",
+        "department": "N/A",
+        "keywords": [
+            "based on novel or book",
+            "clown",
+            "carnival",
+            "sequel",
+            "remake",
+            "maine",
+            "creature",
+            "fear",
+            "lgbt",
+            "ancient evil",
+            "loss of a friend"
+        ],
+        "director": "Andy Muschietti"
+    },
+    {
+        "id": 647127,
+        "production_companies": [],
+        "imdb_id": null,
+        "popularity": 1.171,
+        "revenue": 0,
+        "budget": 0,
+        "job": "N/A",
+        "department": "N/A",
+        "keywords": [],
+        "director": "N/A"
+    },
+    {
+        "id": 13025,
+        "production_companies": [
+            "Artfire Films",
+            "Romero-Grunwald Productions",
+            "Voltage Pictures"
+        ],
+        "imdb_id": "tt0848557",
+        "popularity": 12.256,
+        "revenue": 5540941,
+        "budget": 2000000,
+        "job": "N/A",
+        "department": "N/A",
+        "keywords": [
+            "zombie",
+            "found footage"
+        ],
+        "director": "George A. Romero"
+    },
+    {
+        "id": 661289,
+        "production_companies": [
+            "Warner Home Video"
+        ],
+        "imdb_id": null,
+        "popularity": 16.763,
+        "revenue": 0,
+        "budget": 79000000,
+        "job": "N/A",
+        "department": "N/A",
+        "keywords": [],
+        "director": "Constantine Nasr"
+    },
+    {
+        "id": 456703,
+        "production_companies": [],
+        "imdb_id": "tt0348340",
+        "popularity": 3.47,
+        "revenue": 0,
+        "budget": 0,
+        "job": "N/A",
+        "department": "N/A",
+        "keywords": [],
+        "director": "Constantine Nasr"
+    },
+    {
+        "id": 601335,
+        "production_companies": [],
+        "imdb_id": "tt1326179",
+        "popularity": 3.234,
+        "revenue": 0,
+        "budget": 0,
+        "job": "N/A",
+        "department": "N/A",
+        "keywords": [
+            "making of",
+            "short film"
+        ],
+        "director": "Constantine Nasr"
+    },
+    {
+        "id": 722485,
+        "production_companies": [
+            "Otago"
+        ],
+        "imdb_id": null,
+        "popularity": 0.71,
+        "revenue": 0,
+        "budget": 0,
+        "job": "N/A",
+        "department": "N/A",
+        "keywords": [],
+        "director": "Cédric Davelut"
+    },
+    {
+        "id": 754322,
+        "production_companies": [
+            "ARTE",
+            "Brainworks",
+            "Rockyrama"
+        ],
+        "imdb_id": "tt13329714",
+        "popularity": 1.472,
+        "revenue": 0,
+        "budget": 0,
+        "job": "N/A",
+        "department": "N/A",
+        "keywords": [
+            "cinema on cinema",
+            "best selling author",
+            "horror culture",
+            "portrait of an artist",
+            "celebrity interview",
+            "us literature",
+            "literature history"
+        ],
+        "director": "Julien Dupuy"
+    },
+    {
+        "id": 1368089,
+        "production_companies": [],
+        "imdb_id": "tt1114736",
+        "popularity": 1.578,
+        "revenue": 0,
+        "budget": 0,
+        "job": "N/A",
+        "department": "N/A",
+        "keywords": [
+            "mockumentary",
+            "stephen king",
+            "rose red"
+        ],
+        "director": "Craig R. Baxley"
+    },
+    {
+        "id": 1397143,
+        "production_companies": [],
+        "imdb_id": null,
+        "popularity": 1.27,
+        "revenue": 0,
+        "budget": 0,
+        "job": "N/A",
+        "department": "N/A",
+        "keywords": [],
+        "director": "N/A"
+    },
+    {
+        "id": 235,
+        "production_companies": [
+            "Columbia Pictures",
+            "Act III Productions"
+        ],
+        "imdb_id": "tt0092005",
+        "popularity": 36.852,
+        "revenue": 52300000,
+        "budget": 8000000,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [
+            "friendship",
+            "based on novel or book",
+            "leech",
+            "affectation",
+            "bullying",
+            "road trip",
+            "oregon, usa",
+            "coming of age",
+            "nostalgic",
+            "railroad track",
+            "story within the story",
+            "flipping coin",
+            "campfire story",
+            "pie eating",
+            "told in flashback",
+            "child",
+            "1950s",
+            "boys",
+            "coin toss",
+            "sentimental",
+            "admiring",
+            "familiar"
+        ],
+        "director": "Rob Reiner"
+    },
+    {
+        "id": 1586,
+        "production_companies": [
+            "Pariah",
+            "Grand Slam Productions",
+            "Columbia Pictures"
+        ],
+        "imdb_id": "tt0363988",
+        "popularity": 29.065,
+        "revenue": 92900000,
+        "budget": 40000000,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [
+            "adultery",
+            "jealousy",
+            "nightmare",
+            "police",
+            "isolation",
+            "alcohol",
+            "window",
+            "mississippi river",
+            "detective",
+            "paranoia",
+            "motel",
+            "letter",
+            "notebook",
+            "murder",
+            "arson",
+            "writer",
+            "divorce",
+            "ax"
+        ],
+        "director": "David Koepp"
+    },
+    {
+        "id": 10004,
+        "production_companies": [
+            "Touchstone Television",
+            "Sennet Entertainment"
+        ],
+        "imdb_id": "tt0129871",
+        "popularity": 19.016,
+        "revenue": 0,
+        "budget": 12000000,
+        "job": "Executive Producer",
+        "department": "Production",
+        "keywords": [
+            "sheriff",
+            "psychopath",
+            "nevada",
+            "highway",
+            "serial killer"
+        ],
+        "director": "Mick Garris"
+    },
+    {
+        "id": 10280,
+        "production_companies": [
+            "Spelling Films",
+            "Paramount Pictures"
+        ],
+        "imdb_id": "tt0117894",
+        "popularity": 16.587,
+        "revenue": 15315484,
+        "budget": 8000000,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [
+            "based on novel or book",
+            "curse",
+            "fat suit",
+            "disturbed"
+        ],
+        "director": "Tom Holland"
+    },
+    {
+        "id": 1700,
+        "production_companies": [
+            "Castle Rock Entertainment",
+            "Nelson Entertainment",
+            "Columbia Pictures"
+        ],
+        "imdb_id": "tt0100157",
+        "popularity": 35.294,
+        "revenue": 61300000,
+        "budget": 20000000,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [
+            "based on novel or book",
+            "nurse",
+            "psychopath",
+            "colorado",
+            "car crash",
+            "author",
+            "slasher",
+            "psychological thriller",
+            "torture",
+            "obsessed fan",
+            "blizzard",
+            "bedridden",
+            "psycho",
+            "lunatic",
+            "disturbed",
+            "angry",
+            "female psychopath",
+            "claustrophobic",
+            "abducted",
+            "obssesive fan",
+            "rural setting",
+            "crazy",
+            "kidnapped",
+            "authoritarian",
+            "fight for survival",
+            "nutcase"
+        ],
+        "director": "Rob Reiner"
+    },
+    {
+        "id": 694,
+        "production_companies": [
+            "Warner Bros. Pictures",
+            "Peregrine",
+            "Hawk Films",
+            "The Producer Circle Co."
+        ],
+        "imdb_id": "tt0081505",
+        "popularity": 83.994,
+        "revenue": 44781695,
+        "budget": 19000000,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [
+            "hotel",
+            "new year's eve",
+            "child abuse",
+            "based on novel or book",
+            "isolation",
+            "telepathy",
+            "delusion",
+            "halloween",
+            "snowstorm",
+            "colorado",
+            "seclusion",
+            "surrealism",
+            "alcoholism",
+            "premonition",
+            "psychic power",
+            "caretaker",
+            "loneliness",
+            "vision",
+            "domestic violence",
+            "postmodern",
+            "psychological thriller",
+            "writer",
+            "twins",
+            "labyrinth",
+            "alcoholic",
+            "blizzard",
+            "mutilation",
+            "bloody body of child",
+            "extrasensory perception",
+            "uxoricide",
+            "motherhood",
+            "filicide",
+            "snowed in",
+            "burial ground",
+            "hypothermia",
+            "haunted hotel",
+            "psychological disintegration",
+            "paranoid",
+            "afi",
+            "pediatrician",
+            "repetition",
+            "mother son relationship",
+            "malicious",
+            "supernatural power",
+            "anxious",
+            "new year",
+            "supernatural horror",
+            "ghost child",
+            "psychotronic film",
+            "dreary",
+            "writers-block",
+            "cabin fever",
+            "psychological horror",
+            "deal with the devil",
+            "nuclear family",
+            "avant garde",
+            "yosemite national park",
+            "suspenseful",
+            "tense",
+            "new year's party",
+            "twin sisters",
+            "identical twins",
+            "antagonistic"
+        ],
+        "director": "Stanley Kubrick"
+    },
+    {
+        "id": 10489,
+        "production_companies": [
+            "Sunn Classic Pictures",
+            "TAFT Entertainment Pictures",
+            "Warner Bros. Pictures",
+            "PSO"
+        ],
+        "imdb_id": "tt0085382",
+        "popularity": 25.912,
+        "revenue": 21200000,
+        "budget": 5000000,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [
+            "based on novel or book",
+            "animal attack",
+            "cadillac",
+            "dam",
+            "corpse",
+            "dog",
+            "rabies",
+            "rabid dog",
+            "rabbit hole",
+            "trapped in car",
+            "mad dog",
+            "pets",
+            "animal horror",
+            "saint bernard dog",
+            "sinister",
+            "disheartening",
+            "horrified",
+            "ominous"
+        ],
+        "director": "Lewis Teague"
+    },
+    {
+        "id": 10552,
+        "production_companies": [
+            "International Film Corporation",
+            "The De Laurentiis Company",
+            "Famous Films"
+        ],
+        "imdb_id": "tt0088889",
+        "popularity": 15.419,
+        "revenue": 13100000,
+        "budget": 7000000,
+        "job": "Screenplay",
+        "department": "Writing",
+        "keywords": [
+            "adultery",
+            "monster",
+            "cat",
+            "smoking",
+            "menace",
+            "anthology",
+            "atlantic city",
+            "troll",
+            "pets"
+        ],
+        "director": "Lewis Teague"
+    },
+    {
+        "id": 10657,
+        "production_companies": [
+            "New Line Cinema",
+            "Castle Rock Entertainment"
+        ],
+        "imdb_id": "tt0107665",
+        "popularity": 13.317,
+        "revenue": 15185672,
+        "budget": 0,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [
+            "small town",
+            "sheriff",
+            "based on novel or book",
+            "pain",
+            "strangeness",
+            "manipulation",
+            "malice",
+            "prank",
+            "devil",
+            "desire",
+            "occult"
+        ],
+        "director": "Fraser Clarke Heston"
+    },
+    {
+        "id": 11336,
+        "production_companies": [
+            "Lorimar Film Entertainment",
+            "The De Laurentiis Company"
+        ],
+        "imdb_id": "tt0085407",
+        "popularity": 18.102,
+        "revenue": 20766616,
+        "budget": 10000000,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [
+            "sheriff",
+            "coma",
+            "based on novel or book",
+            "sacrifice",
+            "flashback",
+            "premonition",
+            "vision",
+            "doctor",
+            "car accident",
+            "series of murders",
+            "psychic",
+            "dark hero",
+            "gothic",
+            "madness"
+        ],
+        "director": "David Cronenberg"
+    },
+    {
+        "id": 5876,
+        "production_companies": [
+            "Darkwoods Productions"
+        ],
+        "imdb_id": "tt0884328",
+        "popularity": 43.119,
+        "revenue": 57470220,
+        "budget": 18000000,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [
+            "monster",
+            "based on novel or book",
+            "supermarket",
+            "fight",
+            "faith",
+            "prayer",
+            "artist",
+            "spider",
+            "fog",
+            "bible",
+            "giant monster",
+            "survival",
+            "disaster",
+            "anger",
+            "thunderstorm",
+            "father son relationship"
+        ],
+        "director": "Frank Darabont"
+    },
+    {
+        "id": 20701,
+        "production_companies": [
+            "Paramount Pictures",
+            "Laurel Productions",
+            "Darkside Movie",
+            "Laurel Entertainment"
+        ],
+        "imdb_id": "tt0100740",
+        "popularity": 12.635,
+        "revenue": 16324573,
+        "budget": 3500000,
+        "job": "Story",
+        "department": "Writing",
+        "keywords": [
+            "witch",
+            "monster",
+            "heart attack",
+            "mummy",
+            "dark comedy",
+            "anthology",
+            "paperboy",
+            "decapitation",
+            "gargoyle",
+            "darkside",
+            "black cat",
+            "severed hand",
+            "horror anthology"
+        ],
+        "director": "John Harrison"
+    },
+    {
+        "id": 11495,
+        "production_companies": [
+            "The De Laurentiis Company",
+            "Universal Pictures"
+        ],
+        "imdb_id": "tt0087262",
+        "popularity": 16.936,
+        "revenue": 17080167,
+        "budget": 15000000,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [
+            "fire",
+            "based on novel or book",
+            "telepathy",
+            "psychic power",
+            "girl power",
+            "psychic force"
+        ],
+        "director": "Mark L. Lester"
+    },
+    {
+        "id": 6171,
+        "production_companies": [
+            "Kasdan Pictures",
+            "Village Roadshow Pictures",
+            "Castle Rock Entertainment",
+            "NPV Entertainment",
+            "WV Films II"
+        ],
+        "imdb_id": "tt0285531",
+        "popularity": 28.133,
+        "revenue": 81240206,
+        "budget": 68000000,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [
+            "based on novel or book",
+            "1970s",
+            "religion and supernatural",
+            "snowstorm",
+            "alien",
+            "friends",
+            "childhood",
+            "mysterious",
+            "complex",
+            "vacation gone wrong"
+        ],
+        "director": "Lawrence Kasdan"
+    },
+    {
+        "id": 11929,
+        "production_companies": [
+            "Castle Rock Entertainment",
+            "Columbia Pictures"
+        ],
+        "imdb_id": "tt0109642",
+        "popularity": 19.289,
+        "revenue": 46400000,
+        "budget": 13000000,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [
+            "depression",
+            "child abuse",
+            "island",
+            "based on novel or book",
+            "detective",
+            "suspicion of murder",
+            "abusive father",
+            "melancholy",
+            "dysfunctional family",
+            "lawsuit",
+            "alcoholism",
+            "murder",
+            "maine",
+            "domestic violence",
+            "reporter",
+            "maid",
+            "anger",
+            "alcoholic father",
+            "macabre",
+            "angry",
+            "accident",
+            "abusive husband",
+            "anti-depressant",
+            "bank account",
+            "antagonistic",
+            "awestruck"
+        ],
+        "director": "Taylor Hackford"
+    },
+    {
+        "id": 7340,
+        "production_companies": [
+            "United Artists"
+        ],
+        "imdb_id": "tt0074285",
+        "popularity": 41.445,
+        "revenue": 33800000,
+        "budget": 1800000,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [
+            "high school",
+            "child abuse",
+            "based on novel or book",
+            "isolation",
+            "cemetery",
+            "stage",
+            "bible",
+            "telekinesis",
+            "teacher",
+            "revenge",
+            "unrequited love",
+            "prom",
+            "religion",
+            "teenage girl",
+            "school",
+            "cruelty",
+            "rage",
+            "humiliation",
+            "crucifix",
+            "praying",
+            "outsider",
+            "taunting",
+            "hostile",
+            "abusive mother",
+            "firestorm",
+            "religious horror",
+            "mother daughter relationship",
+            "supernatural horror",
+            "school bullying",
+            "suspenseful",
+            "horrified",
+            "teen scream"
+        ],
+        "director": "Brian De Palma"
+    },
+    {
+        "id": 7341,
+        "production_companies": [
+            "United Artists",
+            "Red Bank Films",
+            "Metro-Goldwyn-Mayer"
+        ],
+        "imdb_id": "tt0144814",
+        "popularity": 19.402,
+        "revenue": 17762705,
+        "budget": 21000000,
+        "job": "Characters",
+        "department": "Writing",
+        "keywords": [
+            "high school",
+            "suicide",
+            "fire",
+            "asylum",
+            "telekinesis",
+            "swimming pool",
+            "sequel",
+            "teacher",
+            "murder",
+            "prom",
+            "weightlifting",
+            "woman director"
+        ],
+        "director": "Katt Shea"
+    },
+    {
+        "id": 7342,
+        "production_companies": [
+            "MGM Television",
+            "Trilogy Entertainment Group"
+        ],
+        "imdb_id": "tt0319970",
+        "popularity": 24.616,
+        "revenue": 0,
+        "budget": 5000000,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [
+            "puberty",
+            "high school",
+            "based on novel or book",
+            "becoming an adult",
+            "surrealism",
+            "bullying",
+            "hysteria",
+            "telekinesis",
+            "coming of age",
+            "remake",
+            "arson",
+            "prom",
+            "religion",
+            "cruelty",
+            "rage",
+            "crucifix",
+            "bible quote",
+            "extrasensory perception",
+            "arrogance",
+            "zealot",
+            "bigot",
+            "abusive mother",
+            "repression",
+            "tv pilot",
+            "menarche",
+            "bimbo"
+        ],
+        "director": "David Carson"
+    },
+    {
+        "id": 25753,
+        "production_companies": [
+            "Neo Art & Logic",
+            "Creeper Films"
+        ],
+        "imdb_id": "tt0279730",
+        "popularity": 9.303,
+        "revenue": 0,
+        "budget": 2500000,
+        "job": "Characters",
+        "department": "Writing",
+        "keywords": [
+            "paranoia",
+            "sequel",
+            "explosion",
+            "corn",
+            "dead",
+            "tomahawk"
+        ],
+        "director": "Guy Magar"
+    },
+    {
+        "id": 8769,
+        "production_companies": [
+            "Columbia Pictures",
+            "Polar Film"
+        ],
+        "imdb_id": "tt0085333",
+        "popularity": 22.553,
+        "revenue": 21200000,
+        "budget": 9700000,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [
+            "anthropomorphism",
+            "overprotective parent",
+            "vexed",
+            "inanimate objects come to life",
+            "playful",
+            "vindictive",
+            "distressing",
+            "harsh"
+        ],
+        "director": "John Carpenter"
+    },
+    {
+        "id": 8913,
+        "production_companies": [
+            "Paramount Pictures"
+        ],
+        "imdb_id": "tt0098084",
+        "popularity": 31.809,
+        "revenue": 57500000,
+        "budget": 11500000,
+        "job": "Screenplay",
+        "department": "Writing",
+        "keywords": [
+            "based on novel or book",
+            "funeral",
+            "parent child relationship",
+            "coffin",
+            "pet",
+            "villain",
+            "head injury",
+            "resurrection",
+            "woods",
+            "grief",
+            "zombie",
+            "new neighbor",
+            "pet cemetery",
+            "dead cat",
+            "death of patient",
+            "loss of pet",
+            "dead lover",
+            "ghost",
+            "grave robbing",
+            "indian burial ground",
+            "woman director",
+            "mysterious",
+            "pets",
+            "somber",
+            "anxious",
+            "supernatural horror",
+            "horrified",
+            "ominous"
+        ],
+        "director": "Mary Lambert"
+    },
+    {
+        "id": 9980,
+        "production_companies": [
+            "DEG"
+        ],
+        "imdb_id": "tt0091499",
+        "popularity": 21.435,
+        "revenue": 7400000,
+        "budget": 10000000,
+        "job": "Director",
+        "department": "Directing",
+        "keywords": [
+            "man vs machine",
+            "gas station",
+            "roadhouse",
+            "siege",
+            "lorry",
+            "comet",
+            "automation",
+            "truck",
+            "arcade",
+            "exploding truck",
+            "exploding gasoline station",
+            "inanimate objects come to life"
+        ],
+        "director": "Stephen King"
+    },
+    {
+        "id": 9980,
+        "production_companies": [
+            "DEG"
+        ],
+        "imdb_id": "tt0091499",
+        "popularity": 21.435,
+        "revenue": 7400000,
+        "budget": 10000000,
+        "job": "Screenplay",
+        "department": "Writing",
+        "keywords": [
+            "man vs machine",
+            "gas station",
+            "roadhouse",
+            "siege",
+            "lorry",
+            "comet",
+            "automation",
+            "truck",
+            "arcade",
+            "exploding truck",
+            "exploding gasoline station",
+            "inanimate objects come to life"
+        ],
+        "director": "Stephen King"
+    },
+    {
+        "id": 27770,
+        "production_companies": [
+            "Trimark Pictures"
+        ],
+        "imdb_id": "tt0117692",
+        "popularity": 6.471,
+        "revenue": 0,
+        "budget": 3000000,
+        "job": "Characters",
+        "department": "Writing",
+        "keywords": [
+            "daughter",
+            "supernatural",
+            "exorcism",
+            "possession",
+            "sequel",
+            "murder",
+            "priest",
+            "demon",
+            "hometown",
+            "tarot"
+        ],
+        "director": "Adam Grossman"
+    },
+    {
+        "id": 16175,
+        "production_companies": [],
+        "imdb_id": "tt0350811",
+        "popularity": 6.694,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Characters",
+        "department": "Writing",
+        "keywords": [
+            "medium",
+            "haunted house"
+        ],
+        "director": "Craig R. Baxley"
+    },
+    {
+        "id": 16175,
+        "production_companies": [],
+        "imdb_id": "tt0350811",
+        "popularity": 6.694,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Executive Producer",
+        "department": "Production",
+        "keywords": [
+            "medium",
+            "haunted house"
+        ],
+        "director": "Craig R. Baxley"
+    },
+    {
+        "id": 37793,
+        "production_companies": [
+            "Optimum Productions"
+        ],
+        "imdb_id": "tt0119194",
+        "popularity": 7.561,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Story",
+        "department": "Writing",
+        "keywords": [
+            "musical",
+            "music video",
+            "pop music"
+        ],
+        "director": "Stan Winston"
+    },
+    {
+        "id": 16281,
+        "production_companies": [
+            "Laurel Entertainment",
+            "United Film Distribution Company (UFDC)"
+        ],
+        "imdb_id": "tt0083767",
+        "popularity": 20.447,
+        "revenue": 21028755,
+        "budget": 8000000,
+        "job": "Screenplay",
+        "department": "Writing",
+        "keywords": [
+            "monster",
+            "halloween",
+            "gore",
+            "meteor",
+            "buried alive",
+            "cockroach",
+            "based on comic",
+            "anthology",
+            "animated scene",
+            "zombie",
+            "living dead"
+        ],
+        "director": "George A. Romero"
+    },
+    {
+        "id": 17898,
+        "production_companies": [
+            "International Film Corporation (II)",
+            "Famous Films Productions",
+            "Paramount Pictures",
+            "DDL Cinematografica"
+        ],
+        "imdb_id": "tt0090021",
+        "popularity": 17.492,
+        "revenue": 12400000,
+        "budget": 7000000,
+        "job": "Screenplay",
+        "department": "Writing",
+        "keywords": [
+            "based on novel or book",
+            "maine",
+            "werewolf"
+        ],
+        "director": "Daniel Attias"
+    },
+    {
+        "id": 830764,
+        "production_companies": [
+            "Paramount Players",
+            "di Bonaventura Pictures"
+        ],
+        "imdb_id": "tt14145436",
+        "popularity": 27.595,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [
+            "cemetery",
+            "gore",
+            "sequel",
+            "prequel",
+            "remake",
+            "pet cemetery",
+            "1960s",
+            "forced to kill",
+            "pet monster",
+            "period piece",
+            "violence",
+            "horror",
+            "scary"
+        ],
+        "director": "Lindsey Anderson Beer"
+    },
+    {
+        "id": 838481,
+        "production_companies": [
+            "Blumhouse Productions",
+            "Sony Pictures",
+            "Copperheart Entertainment"
+        ],
+        "imdb_id": "tt14812060",
+        "popularity": 1.501,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [
+            "inanimate objects come to life"
+        ],
+        "director": "Bryan Fuller"
+    },
+    {
+        "id": 3021,
+        "production_companies": [
+            "Dimension Films",
+            "di Bonaventura Pictures"
+        ],
+        "imdb_id": "tt0450385",
+        "popularity": 27.274,
+        "revenue": 133000000,
+        "budget": 25000000,
+        "job": "Short Story",
+        "department": "Writing",
+        "keywords": [
+            "hotel",
+            "hotel room",
+            "new york city",
+            "research",
+            "fire",
+            "husband wife relationship",
+            "window",
+            "loss of loved one",
+            "door",
+            "painting",
+            "telephone",
+            "haunted house",
+            "writer",
+            "ghost hunter"
+        ],
+        "director": "Mikael Håfström"
+    },
+    {
+        "id": 133805,
+        "production_companies": [
+            "Misher Films",
+            "Screen Gems",
+            "Metro-Goldwyn-Mayer",
+            "Sony Pictures Home Entertainment"
+        ],
+        "imdb_id": "tt1939659",
+        "popularity": 39.601,
+        "revenue": 84790678,
+        "budget": 30000000,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [
+            "high school",
+            "based on novel or book",
+            "telekinesis",
+            "remake",
+            "revenge",
+            "prank",
+            "murder",
+            "prom",
+            "religion",
+            "explosion",
+            "humiliation",
+            "woman director"
+        ],
+        "director": "Kimberly Peirce"
+    },
+    {
+        "id": 62521,
+        "production_companies": [],
+        "imdb_id": "tt0352297",
+        "popularity": 2.623,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Short Story",
+        "department": "Writing",
+        "keywords": [
+            "cult",
+            "evil child"
+        ],
+        "director": "John Woodward"
+    },
+    {
+        "id": 63201,
+        "production_companies": [],
+        "imdb_id": "tt0086534",
+        "popularity": 1.862,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Short Story",
+        "department": "Writing",
+        "keywords": [],
+        "director": "Frank Darabont"
+    },
+    {
+        "id": 168098,
+        "production_companies": [
+            "Cargo Entertainment",
+            "120dB Films",
+            "Benaroya Pictures",
+            "The Genre Co.",
+            "International Film Trust"
+        ],
+        "imdb_id": "tt0775440",
+        "popularity": 22.407,
+        "revenue": 1133031,
+        "budget": 0,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [
+            "suicide",
+            "airport",
+            "based on novel or book",
+            "boston, massachusetts",
+            "drive-in theater",
+            "murder",
+            "cell phone",
+            "ice cream truck",
+            "virus",
+            "hostile",
+            "somber",
+            "intense",
+            "frightened"
+        ],
+        "director": "Tod Williams"
+    },
+    {
+        "id": 853604,
+        "production_companies": [
+            "Paramount Pictures"
+        ],
+        "imdb_id": "tt10621156",
+        "popularity": 1.385,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [
+            "short film",
+            "blu-ray extra"
+        ],
+        "director": "Marcus Perry"
+    },
+    {
+        "id": 601335,
+        "production_companies": [],
+        "imdb_id": "tt1326179",
+        "popularity": 3.234,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Thanks",
+        "department": "Crew",
+        "keywords": [
+            "making of",
+            "short film"
+        ],
+        "director": "Constantine Nasr"
+    },
+    {
+        "id": 12483,
+        "production_companies": [
+            "Motion Picture Corporation of America",
+            "Apollo Productions"
+        ],
+        "imdb_id": "tt0355954",
+        "popularity": 10.394,
+        "revenue": 264505,
+        "budget": 5000000,
+        "job": "Short Story",
+        "department": "Writing",
+        "keywords": [
+            "suicide",
+            "ex-girlfriend",
+            "apoplectic stroke",
+            "halloween"
+        ],
+        "director": "Mick Garris"
+    },
+    {
+        "id": 297961,
+        "production_companies": [
+            "HBO Films",
+            "Ostar Productions",
+            "Lifetime"
+        ],
+        "imdb_id": "tt3831810",
+        "popularity": 16.094,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Original Story",
+        "department": "Writing",
+        "keywords": [
+            "revenge",
+            "rape and revenge",
+            "mystery writer"
+        ],
+        "director": "Mikael Salomon"
+    },
+    {
+        "id": 487429,
+        "production_companies": [
+            "Turtle Bay Entertainment"
+        ],
+        "imdb_id": "tt0458376",
+        "popularity": 1.551,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Short Story",
+        "department": "Writing",
+        "keywords": [
+            "based on short story",
+            "short film"
+        ],
+        "director": "Jack Edward Sawyers"
+    },
+    {
+        "id": 229852,
+        "production_companies": [
+            "Arcadia Films"
+        ],
+        "imdb_id": "tt1711501",
+        "popularity": 2.062,
+        "revenue": 0,
+        "budget": 2100,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [
+            "short film",
+            "dollar baby"
+        ],
+        "director": "Gerard Lough"
+    },
+    {
+        "id": 432804,
+        "production_companies": [],
+        "imdb_id": "tt2199723",
+        "popularity": 2.124,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [],
+        "director": "Christopher Birk"
+    },
+    {
+        "id": 618349,
+        "production_companies": [
+            "Renegade Entertainment"
+        ],
+        "imdb_id": "tt8753656",
+        "popularity": 0.881,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [
+            "small town",
+            "based on novel or book",
+            "pennsylvania, usa",
+            "demonic",
+            "supernatural horror",
+            "car"
+        ],
+        "director": "William Brent Bell"
+    },
+    {
+        "id": 442317,
+        "production_companies": [
+            "Black Box Pictures"
+        ],
+        "imdb_id": "tt0286168",
+        "popularity": 1.656,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Short Story",
+        "department": "Writing",
+        "keywords": [
+            "short film",
+            "dollar baby"
+        ],
+        "director": "Doveed Linder"
+    },
+    {
+        "id": 460730,
+        "production_companies": [
+            "Madison Video",
+            "Laurel Entertainment Inc.",
+            "Tribune Entertainment"
+        ],
+        "imdb_id": "tt4388650",
+        "popularity": 2.89,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [],
+        "director": "Theodore Gershuny"
+    },
+    {
+        "id": 1185822,
+        "production_companies": [],
+        "imdb_id": "tt17519596",
+        "popularity": 0.655,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Short Story",
+        "department": "Writing",
+        "keywords": [],
+        "director": "David C. Spillers"
+    },
+    {
+        "id": 705107,
+        "production_companies": [],
+        "imdb_id": "tt0487256",
+        "popularity": 0.953,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Short Story",
+        "department": "Writing",
+        "keywords": [
+            "short film"
+        ],
+        "director": "Damien Maric"
+    },
+    {
+        "id": 1060075,
+        "production_companies": [
+            "Tisch School of the Arts (NYU)"
+        ],
+        "imdb_id": "tt0823226",
+        "popularity": 1.472,
+        "revenue": 0,
+        "budget": 60000,
+        "job": "Short Story",
+        "department": "Writing",
+        "keywords": [
+            "short film",
+            "adaptation",
+            "stephen king",
+            "dollar baby"
+        ],
+        "director": "Rodney Altman"
+    },
+    {
+        "id": 705110,
+        "production_companies": [],
+        "imdb_id": "tt1365579",
+        "popularity": 1.233,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Short Story",
+        "department": "Writing",
+        "keywords": [],
+        "director": "Natalie Mooallem"
+    },
+    {
+        "id": 1033821,
+        "production_companies": [],
+        "imdb_id": "tt3688568",
+        "popularity": 0.626,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [],
+        "director": "Lee Hardcastle"
+    },
+    {
+        "id": 1068436,
+        "production_companies": [
+            "The McGuffin Film Society"
+        ],
+        "imdb_id": "tt2246869",
+        "popularity": 2.023,
+        "revenue": 0,
+        "budget": 6000,
+        "job": "Short Story",
+        "department": "Writing",
+        "keywords": [],
+        "director": "Jacqueline Wright"
+    },
+    {
+        "id": 1056978,
+        "production_companies": [
+            "Filmakademie Baden-Württemberg"
+        ],
+        "imdb_id": "tt2990914",
+        "popularity": 1.044,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Short Story",
+        "department": "Writing",
+        "keywords": [],
+        "director": "Miloš Savić"
+    },
+    {
+        "id": 747048,
+        "production_companies": [],
+        "imdb_id": "tt2259658",
+        "popularity": 1.756,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Short Story",
+        "department": "Writing",
+        "keywords": [],
+        "director": "Guillaume Heulard"
+    },
+    {
+        "id": 1062860,
+        "production_companies": [],
+        "imdb_id": "tt3740320",
+        "popularity": 0.409,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Short Story",
+        "department": "Writing",
+        "keywords": [],
+        "director": "Jonathan Berry"
+    },
+    {
+        "id": 1065646,
+        "production_companies": [
+            "Think Speak Films"
+        ],
+        "imdb_id": "tt4627542",
+        "popularity": 1.791,
+        "revenue": 0,
+        "budget": 4000,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [
+            "short film"
+        ],
+        "director": "Shahab Zargari"
+    },
+    {
+        "id": 180305,
+        "production_companies": [
+            "Blumhouse Productions",
+            "Wonderland Sound and Vision"
+        ],
+        "imdb_id": "tt2481496",
+        "popularity": 12.479,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Short Story",
+        "department": "Writing",
+        "keywords": [
+            "mother son relationship"
+        ],
+        "director": "Peter Cornwell"
+    },
+    {
+        "id": 756747,
+        "production_companies": [
+            "Shudder",
+            "Octopie Network",
+            "Monster Agency Productions",
+            "Striker Entertainment",
+            "Taurus Entertainment Company",
+            "The Cartel"
+        ],
+        "imdb_id": "tt13244172",
+        "popularity": 2.509,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Short Story",
+        "department": "Writing",
+        "keywords": [
+            "special"
+        ],
+        "director": "Greg Nicotero"
+    },
+    {
+        "id": 290625,
+        "production_companies": [],
+        "imdb_id": "tt0888510",
+        "popularity": 0.965,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Idea",
+        "department": "Writing",
+        "keywords": [],
+        "director": "Mark Steensland"
+    },
+    {
+        "id": 1191677,
+        "production_companies": [
+            "Neon Crow"
+        ],
+        "imdb_id": "tt5618710",
+        "popularity": 1.425,
+        "revenue": 0,
+        "budget": 5500,
+        "job": "Writer",
+        "department": "Writing",
+        "keywords": [],
+        "director": "Massimo Volta"
+    },
+    {
+        "id": 25751,
+        "production_companies": [
+            "Dimension Films",
+            "Blue Rider Pictures"
+        ],
+        "imdb_id": "tt0150111",
+        "popularity": 7.689,
+        "revenue": 0,
+        "budget": 1650000,
+        "job": "Short Story",
+        "department": "Writing",
+        "keywords": [
+            "cult",
+            "pregnant minor",
+            "broken down car",
+            "cornfield"
+        ],
+        "director": "Ethan Wiley"
+    },
+    {
+        "id": 10349,
+        "production_companies": [
+            "George A. Romero Productions",
+            "Orion Pictures"
+        ],
+        "imdb_id": "tt0106664",
+        "popularity": 25.021,
+        "revenue": 10611160,
+        "budget": 15000000,
+        "job": "Novel",
+        "department": "Writing",
+        "keywords": [
+            "new york city",
+            "sheriff",
+            "based on novel or book",
+            "brain tumor",
+            "blackmail",
+            "razor",
+            "pseudonym",
+            "alter ego",
+            "murder",
+            "maine",
+            "author",
+            "sparrow",
+            "family",
+            "super power",
+            "graveyard",
+            "high toned"
+        ],
+        "director": "George A. Romero"
+    },
+    {
+        "id": 288281,
+        "production_companies": [
+            "Reno Productions"
+        ],
+        "imdb_id": "tt2180994",
+        "popularity": 13.399,
+        "revenue": 0,
+        "budget": 0,
+        "job": "Writer",
+        "department": "Writing",
+        "keywords": [
+            "series of murders",
+            "psychotic",
+            "shocking",
+            "cautionary",
+            "serious",
+            "intense",
+            "horrified"
+        ],
+        "director": "Peter Askin"
+    }
+]

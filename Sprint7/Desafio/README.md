@@ -92,7 +92,7 @@ Execução da Lambda
 
 ![lambda1](../Evidencias/execuçao.png)
 
-![lambda2](../Evidencias/execuçao2.png)
+![lambda2](../Evidencias/execucao2.png)
 
 Resultado Final no Bucket
 
@@ -114,6 +114,17 @@ Resultado Final no Bucket
 
 ![bucket9](../Evidencias/bucket8.png)
 
+## Aqui estão o código e os arquivos gerados 
+
+[codigo](../Desafio/código%20python/desafio7.py)
+
+[json1](../Desafio/json_gerados/filmes_stephen_king_brutos_1.json)
+
+[json2](../Desafio/json_gerados/filmes_stephen_king_brutos_2.json)
+
+[json3](../Desafio/json_gerados/filmes_stephen_king_brutos_3.json)
+
+[json4](../Desafio/json_gerados/filmes_stephen_king_brutos_4.json)
 
 
 
