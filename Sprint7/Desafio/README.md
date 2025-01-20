@@ -9,10 +9,21 @@ Inicialmente, planejei focar em filmes de terror e mistério dos anos 1980. No e
 Para esta análise, pretendo abordar as seguintes perguntas:
 
 1. Qual é a porcentagem de filmes relacionados a Stephen King que pertencem ao gênero terror/mistério em comparação com outros gêneros?
-2. Dentro do gênero terror/mistério, quais filmes foram os mais rentáveis (considerando a diferença entre o custo de produção e a arrecadação de bilheteria)?
-3. Os filmes mais rentáveis foram também os mais bem avaliados? Existe alguma relação entre popularidade e sucesso financeiro?
-4. Há alguma correlação entre diretores ou produtoras específicas e a popularidade dos filmes?
-5. Entre os filmes mais populares, qual é a década de lançamento predominante? Eles tiveram mais sucesso em décadas anteriores ou ainda mantêm relevância atualmente?
+2. Dentro do gênero terror/mistério, quais filmes foram baseados em livros do autor?
+3. Dentro do gênero terror/mistério e que se originaram de livros quais os mais rentáveis (considerando a diferença entre o custo de produção e a arrecadação de bilheteria)?
+4. Os filmes mais rentáveis foram também os mais bem avaliados? Existe alguma relação entre popularidade e sucesso financeiro?
+5. Há alguma correlação entre diretores ou produtoras específicas e a popularidade dos filmes?
+6. Entre os filmes mais populares, qual é a década de lançamento predominante? Eles tiveram mais sucesso em décadas anteriores ou ainda mantêm relevância atualmente?
+
+## Motivadores das Apis 
+
+"production_companies" e "director" - usarei para avaliar se alguma produtora, ou diretor tem mais sucesso quando relacionadas ao autor
+"imdb_id" - usarei para unir com o CSV
+"popularity" - usarei medir a popularidade dos filmes
+"revenue" e "budget" - usarei para analisar o lucro de cada filme
+"job" e "department" - usarei para saber como o autor se relaciona com cada filme, se foi escritor, ou se participou de algum modo da produção
+'keywords" - para saber se os "based on novel or book" tem mais sucesso
+
 
 ## Etapas Realizadas
 Para alcançar os objetivos propostos e cumprir o desafio da Sprint, executei as seguintes ações:
@@ -126,6 +137,10 @@ Resultado Final no Bucket
 
 [json4](../Desafio/json_gerados/filmes_stephen_king_brutos_4.json)
 
+
+## Aqui está o link para o Bucket upload_s3
+
+https://desafiofinal-filmeseseries.s3.us-east-1.amazonaws.com/raw/tmdb/json/2025/01/20/
 
 
 
