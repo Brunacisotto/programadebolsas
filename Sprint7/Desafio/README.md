@@ -17,12 +17,12 @@ Para esta análise, pretendo abordar as seguintes perguntas:
 
 ## Motivadores das Apis 
 
-"production_companies" e "director" - usarei para avaliar se alguma produtora, ou diretor tem mais sucesso quando relacionadas ao autor
-"imdb_id" - usarei para unir com o CSV
-"popularity" - usarei medir a popularidade dos filmes
-"revenue" e "budget" - usarei para analisar o lucro de cada filme
-"job" e "department" - usarei para saber como o autor se relaciona com cada filme, se foi escritor, ou se participou de algum modo da produção
-'keywords" - para saber se os "based on novel or book" tem mais sucesso
+-- "production_companies" e "director" - usarei para avaliar se alguma produtora, ou diretor tem mais sucesso quando relacionadas ao autor
+-- "imdb_id" - usarei para unir com o CSV
+-- "popularity" - usarei medir a popularidade dos filmes
+-- "revenue" e "budget" - usarei para analisar o lucro de cada filme
+-- "job" e "department" - usarei para saber como o autor se relaciona com cada filme, se foi escritor, ou se participou de algum modo da produção
+-- 'keywords" - para saber se os "based on novel or book" tem mais sucesso
 
 
 ## Etapas Realizadas
@@ -87,7 +87,7 @@ Comecei com a criação da camada, fiz diretamente no terminal contido na AWS
 
 ![layer5](../Evidencias/layer5.png)
 
-![layer6](../Evidencias/layer6png)
+![layer6](../Evidencias/layer6.png)
 
 ![layer7](../Evidencias/layer7.png)
 
