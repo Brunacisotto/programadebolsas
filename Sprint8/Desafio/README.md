@@ -43,7 +43,7 @@ Coloquei no código o caminho que os dados deveriam ser consumidos/salvos, usei 
 
 Li os arquivos da camada RAW
 
-![gluecsv2](../Evidencias/evidencias%20codigos/csv/csv2png)
+![gluecsv2](../Evidencias/evidencias%20codigos/csv/csv2.png)
 
 Removi as colunas do csv que não me serão uteis na analise 
 
@@ -102,7 +102,7 @@ escrevi os dados transformados em parquet no S3
 
 Aqui estão os arquivos parquet gerados
 
-[parquet1](../Desafio/parquet/parquettmdb/part-00000-3bc83858-442b-4f85-b8e4-45aa6ee6b986-c000.snappy.parquet
+[parquet1](../Desafio/parquet/parquettmdb/part-00000-3bc83858-442b-4f85-b8e4-45aa6ee6b986-c000.snappy.parquet)
 
 [parquet2](../Desafio/parquet/parquettmdb/part-00001-3bc83858-442b-4f85-b8e4-45aa6ee6b986-c000.snappy.parquet)
 
@@ -119,7 +119,7 @@ Aqui estao as telas dos processamentos dos Jobs no Glue
 
 ![glue1](../Evidencias/gluecsv01.png)
 
-![glue2](../Evidencias/gluecsv02.png)
+![glue2](../Evidencias/gluetmdb01.png)
 
 #### Bucket 
 
