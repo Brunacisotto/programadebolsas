@@ -187,6 +187,10 @@ Os arquivos com os códigos executados se encontram aqui
 
 [codigopytmdb](../Desafio/arquivospy/jobtmdb.py)
 
+O caminho para o Bucket S3 é esse:
+
+https://desafiofinal-filmeseseries.s3.us-east-1.amazonaws.com/trusted/
+
 
 
 
