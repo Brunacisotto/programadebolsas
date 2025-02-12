@@ -20,7 +20,7 @@ Carregando os arquivos parquet tanto local como do tmdb
 
 ![jobglue03](../Evidencias/codigo/codigo03.png)
 
-Fazendo o join das duas fontes de dados (local e tmdb), para fazer esse join escolhi a id_tmdb, que foi um campo que já trouxe da api do tmdb na sprint 7, já pensando em nessa fase usar com esse fim, aqui também escolhi de fato os dados que seriam usados na minha analise.
+e foi um campo que já trouxe da api do tmdb na sprint 7, já pensando em nessa fase usar com esse fim, visto que esse id também era encontrado no arquivo csv que recebemos na sprint 6, para mim se tornou o campo mais adquedado para fazer a união das duas fontes aqui também escolhi de fato os dados que seriam usados na minha analise.Fazendo o join das duas fontes de dados (local e tmdb), para fazer esse join escolhi a imdb_id, qu
 
 ![jobglue04](../Evidencias/codigo/codigo04.png)
 
@@ -138,17 +138,31 @@ Com as tabelas criadas consultei as mesmas no Athena e esses foram os resultados
 
 Aqui estão os arquivos csv dessas tabelas 
 
+dim_departamento
+
 [dim_departamento](../Desafio/csvs%20tabelas/dim_departamento.csv)
+
+dim_tempo 
 
 [dim_tempo](../Desafio/csvs%20tabelas/dim_tempo.csv)
 
+dim_filme 
+
 [dim_filme](../Desafio/csvs%20tabelas/dim_filme.csv)
+
+dim_produtora
 
 [dim_produtora](../Desafio/csvs%20tabelas/dim_produtora.csv)
 
+dim_diretor 
+
 [dim_diretor](../Desafio/csvs%20tabelas/dim_diretor.csv)
 
+dim_genero 
+
 [dim_genero](../Desafio/csvs%20tabelas/dim_genero.csv)
+
+fato_filme 
 
 [fato_filme](../Desafio/csvs%20tabelas/fato_filme.csv)
 
@@ -158,9 +172,9 @@ Aqui está o arquivo PY com o código que usei no Glue
 
 Meu diagrama dimensional ficou assim 
 
-[dimensional](../Desafio/dimensional/dimensionlfinal.png)
+[dimensionalimagem](../Desafio/dimensional/dimensionlfinal.png)
 
-[dimensional](../Desafio/dimensional/dimensionaldesafio.mwb)
+[dimensional.mwd](../Desafio/dimensional/dimensionaldesafio.mwb)
 
 
 
