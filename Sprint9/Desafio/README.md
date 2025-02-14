@@ -177,6 +177,12 @@ Meu diagrama dimensional ficou assim
 
 [dimensional.mwd](../Desafio/dimensional/dimensionaldesafio.mwb)
 
+Esse é o link para o Bucket
+
+s3://desafiofinal-filmeseseries/refined/
+https://desafiofinal-filmeseseries.s3.us-east-1.amazonaws.com/refined/
+
+
 
 
 
