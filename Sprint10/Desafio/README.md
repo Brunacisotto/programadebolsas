@@ -98,7 +98,6 @@ Quanto as produtoras mais lucrativas tivemos o seguinte resultado, nessa analise
 
 Podemos notar que as produtoras que estiveram envolvidas nas produções de It 🎈 e It capítulo2 🎈 explodiram em lucratividade, sendo elas KatzSmith Production, Lin Pictures, Vertigo Entertainment, Rideback, Double Dream e New Line Cinema. 1408 também é um filme que contou com uma boa lucratividade para as produtoras Di Bonaventura e Dimension Films, ao mesmo tempo, mesmo produzindo mais de um filme as demais produtoras tiveram lucros parecidos.
 
-
 Quanto aos diretores esses são os 10 mais lucrativos. 
 
 ![analise9](../Evidencias/grafico9.png)
@@ -117,15 +116,16 @@ Podemos notar que o grande destaque fica por conta de It 🎈 e It capítulo 2 �
 
 ## Conclusão
 
-Com essa análise pude perceber que Stephen King continua sendo relevante com o passar das décadas, embora O Iluminado tenha sido o grande sucesso do autor em termos de popularidade, e outros filmes baseados em livros, filmados na década de 80 e 90 sejam lembrados até hoje como clássicos do genero de Terror, It e It capítulo 2 chegaram em 2017 e 2019 respectivamente (são baseados no livro de 1986) e explodiram em lucro, foram bastante populares e trouxeram para o diretor e produtoras bilheterias expressivas.
+### A Relevância Contínua de Stephen King no Cinema
+A análise dos filmes baseados nas obras de Stephen King revela que sua influência permanece forte ao longo das décadas. Embora O Iluminado do ano 1980 tenha sido um grande sucesso em termos de popularidade e outras adaptações feitas nas décadas de 1980 e 1990 ainda são lembradas como clássicos do gênero terror, mais recentemente, It (2017) e It: Capítulo 2 (2019), baseados no livro de 1986, alcançaram enorme sucesso de bilheteria, os maior já registrados em filmes baseados em obras do autor. Além de serem bem recebidos pelo público, essas adaptações trouxeram lucros expressivos para seus diretores e produtoras.
 
-Após o lançamento do primeiro filme em 2017, It entrou na lista de best-sellers novamente, vendendo milhões de cópias ao redor do mundo. Houve também um aumento geral no interesse pelas obras de Stephen King, com outros livros do autor ganhando mais destaque.
+O Impacto no Mercado Literário
+O sucesso dos filmes impulsionou as vendas do livro It, que voltou à lista de best-sellers e vendeu milhões de cópias ao redor do mundo. Esse fenômeno também reacendeu o interesse por outras obras de Stephen King, aumentando sua popularidade e resultando no relançamento de novas edições, muitas com capas inspiradas nas adaptações cinematográficas.
 
-O sucesso das adaptações também fez com que novas edições do livro fossem lançadas, muitas delas com capas inspiradas no filme.
+O Futuro das Adaptações
+Diante desse cenário, é provável que futuras adaptações de livros de Stephen King, bem como possíveis remakes de filmes já lançados, encontrem grande aceitação do público. Além disso, as editoras que detêm os direitos de suas obras também se beneficiarão financeiramente, enquanto os fãs do mestre do horror terão a oportunidade de ver suas histórias favoritas ganharem vida nas telas.
 
-Portanto, se as produtoras de cinema desejarem adptar outras obras do autor, ou até mesmo fazer remakes de filmes, podemos concluir que há grandes chances desses se tornarem sucesso de público ainda nos dias de hoje, as editoras que tem os direitos dos livros também irão se beneficiar financeiramente e os fãs do mestre do horror vão se deleitar de ver as melhores histórias de terror e mistério saírem dos livros e ganharem vida nas telas. 🎈
-
-
+🎈
 ---  
 
 Gostaria de encerrar este **README** com a seguinte frase de **Stephen King**:  
