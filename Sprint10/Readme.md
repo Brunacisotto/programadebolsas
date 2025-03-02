@@ -1,4 +1,4 @@
-# 🚀 Sprint 10 – Conclusão do Programa de Bolsas  
+# Sprint 10 – Conclusão do Programa de Bolsas  
 
 Chegamos à **Sprint 10**!  
 

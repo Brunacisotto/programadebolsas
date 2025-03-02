@@ -88,7 +88,7 @@ Fiz um gráfico de dispersão para mostrar a relação entre popularidade X lucr
 
 ![analise7](../Evidencias/grafico7.png)
 
-Podemos notar que O iluminado, é realmente popular, embora tenha sido feito com um orçamento não muito expressivo, também se destacam nesse gráfico It 🎈 e It 2 🎈, os demais filmes podemos notar tiveram tanto um orçamento quanto popularidades parecidos.
+Podemos notar que O iluminado, é realmente popular, embora tenha sido feito com um orçamento não muito expressivo, também se destacam nesse gráfico It  e It 2 , os demais filmes podemos notar tiveram tanto um orçamento quanto popularidades parecidos.
 
 **Há alguma correlação entre diretores ou produtoras específicas e o lucro dos filmes?** 
 
@@ -96,13 +96,13 @@ Quanto as produtoras mais lucrativas tivemos o seguinte resultado, nessa analise
 
 ![analise8](../Evidencias/grafico8.png)
 
-Podemos notar que as produtoras que estiveram envolvidas nas produções de It 🎈 e It capítulo2 🎈 explodiram em lucratividade, sendo elas KatzSmith Production, Lin Pictures, Vertigo Entertainment, Rideback, Double Dream e New Line Cinema. 1408 também é um filme que contou com uma boa lucratividade para as produtoras Di Bonaventura e Dimension Films, ao mesmo tempo, mesmo produzindo mais de um filme as demais produtoras tiveram lucros parecidos.
+Podemos notar que as produtoras que estiveram envolvidas nas produções de It e It capítulo2 explodiram em lucratividade, sendo elas KatzSmith Production, Lin Pictures, Vertigo Entertainment, Rideback, Double Dream e New Line Cinema. 1408 também é um filme que contou com uma boa lucratividade para as produtoras Di Bonaventura e Dimension Films, ao mesmo tempo, mesmo produzindo mais de um filme as demais produtoras tiveram lucros parecidos.
 
 Quanto aos diretores esses são os 10 mais lucrativos. 
 
 ![analise9](../Evidencias/grafico9.png)
 
-Andy Muschietti diretor de It 🎈 e It capítulo 2 🎈 é o grande destaque nessa analise, podemos ver a diferença enorme entre ele e o segundo colocado Mikael Håfström por 1408.
+Andy Muschietti diretor de It  e It capítulo 2  é o grande destaque nessa analise, podemos ver a diferença enorme entre ele e o segundo colocado Mikael Håfström por 1408.
 
 **Quais foram os orçamentos, bilheterias e lucros dos filmes? Quais os filmes mais rentáveis (considerando a diferença entre o custo de produção e a arrecadação de bilheteria)?**  
 
@@ -112,7 +112,7 @@ Para responder essa última pergunta utilizei orçamento, lucro liquido e receit
 
 ![analise11](../Evidencias/grafico10zoom2.png)
 
-Podemos notar que o grande destaque fica por conta de It 🎈 e It capítulo 2 🎈 com lucros estratosféricos, é interessante notarmos os próximos em lucratividade 1408, Cujo e Cemitério Maldito.
+Podemos notar que o grande destaque fica por conta de It e It capítulo 2 com lucros estratosféricos, é interessante notarmos os próximos em lucratividade 1408, Cujo e Cemitério Maldito.
 
 ## Conclusão
 
@@ -135,4 +135,4 @@ Gostaria de encerrar este **README** com a seguinte frase de **Stephen King**:
 
 Que **desafio enorme** foi este programa de bolsas! Mas aqui estou: com **coragem para começar** e **resiliência para não desistir**, cheguei ao final com uma sensação de **enorme aprendizado e crescimento**, tanto profissional quanto pessoal.  
 
-**Muito obrigada a todos os envolvidos!** 🚀🎥  
+**Muito obrigada a todos os envolvidos!** 🎈🎥  
