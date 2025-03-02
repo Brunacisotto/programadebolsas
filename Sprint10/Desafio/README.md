@@ -30,7 +30,7 @@ Aqui o resultado do dataset com as tabelas.
 
 Com o dataset criado e os joins devidamente feitos comecei a analise por descobrir a resposta a seguinte pergunta: 
 
-**Qual é a porcentagem de filmes relacionados a Stephen King que pertencem ao gênero terror/mistério em comparação com outros gêneros?**  
+❓ **Qual é a porcentagem de filmes relacionados a Stephen King que pertencem ao gênero terror/mistério em comparação com outros gêneros?**  
 
 Para responder essa questão criei um campo calculado que identificava se o genero ao qual o filme pertencia era horror, mystery, thriller ou outros e selecionei o campo de id_tmdb como value contando apenas os ids distintos, como eram pouca categorias optei por fazer um gráfico de donut e esse foi o resultado:
 
@@ -48,7 +48,7 @@ A partir desse ponto da analise, em todos os graficos usei um filtro para apenas
 
 A próxima pergunta a ser respondida era: 
 
-**Dentro do gênero terror/mistério, qual a porcentagem de filmes em que o autor teve o papel de escritor? Ele teve maior participação nesse papel? Ele assumiu outras funções além de escritor nos filmes?**  
+❓ **Dentro do gênero terror/mistério, qual a porcentagem de filmes em que o autor teve o papel de escritor? Ele teve maior participação nesse papel? Ele assumiu outras funções além de escritor nos filmes?**  
 
 Para responder essa pergunta usei os campos id_tmdb e departament, e optei por um grafico de pizza, com isso consegui descobrir que Stephen King se envolve majoritariamente como escritor, tendo a participação como Crew (produtor, diretor e ator) em uma pequena porcentagem das produções. Esse foi o resultado do gráfico.
 
@@ -56,7 +56,7 @@ Para responder essa pergunta usei os campos id_tmdb e departament, e optei por u
 
 Quando comecei essa analise tinha essa hipótese como certa e realmente ela se confirmou, o envolvimento do autor em outros campos das produções é minímo, o que ele realmente gosta é de escrever, e por sua maestria como escritor suas obras são tão adaptadas para as telas.
 
-**Qual é a década de lançamento predominante nos filmes mais populares? Eles tiveram mais sucesso em décadas anteriores ou ainda mantêm relevância atualmente?**  
+❓ **Qual é a década de lançamento predominante nos filmes mais populares? Eles tiveram mais sucesso em décadas anteriores ou ainda mantêm relevância atualmente?**  
 
 Sabemos que a década iconica do horror no cinema foram os anos 80, mas será que filmes baseados na obra do autor seguem esse padrão?
 Para fazer esse gráfico usei os indices de popularidade do imdb e tmdb e as decadas de lançamentos das produçoes, havia criado esse campo década na sprint anterior na tabela de dim_tempo e utilizei ele aqui.
@@ -66,7 +66,7 @@ Esse foi o resultado do gráfico:
 
 Esse gráfico realmente mostra que o auge da popularidade dessas produções foi os anos 80 e 90, (nas duas fontes de dados o gráfico faz o mesmo trajeto, o que comprova que as duas fontes de dados tem confiabilidade) tendo visto um declinio nas últimas decadas no quesito popularidade.
 
-**Quais foram os filmes mais populares?**  
+❓ **Quais foram os filmes mais populares?**  
 
 Para responder essa questão utilizei o indice de popularidade do tmdb, e escolhi trazer os 10 filmes com maior popularidade, o gráfico a seguir mostra o resultado.
 
@@ -74,7 +74,7 @@ Para responder essa questão utilizei o indice de popularidade do tmdb, e escolh
 
 O iluminado, da década de 80, um dos filmes mais lembrados de terror se destaca no quesito popularidade, confirmando a hipotese da pergunta anterior que a década de 80 foi muito boa para o genero, seguido pelos mais recentes It e It capítulo 2.
 
-**Qual a diferença entre orçamento e receita dos filmes por década?** 
+❓ **Qual a diferença entre orçamento e receita dos filmes por década?** 
 
 Já sabemos que os anos 80 e 90 foram o auge da popularidade dos filmes baseados na obra de Stephen King, mas e quanto aos orçamentos e as receitas dessas produções? Para descobrir no decorrer da décadas qual foi a variação desses campos utilizei um grafico de linhas. O resultado foi o seguinte:
 
@@ -82,7 +82,7 @@ Já sabemos que os anos 80 e 90 foram o auge da popularidade dos filmes baseados
 
 Podemos notar que embora os orçamentos tenham crescido durante as décadas, houve uma explosão expressiva na receita na década de 2010. A frente nessa análise veremos quais filmes foram responsaveis por esse crescimento na receita.
 
-**Os filmes mais rentáveis foram também os mais bem avaliados? Existe alguma relação entre popularidade e sucesso financeiro?**  
+❓ **Os filmes mais rentáveis foram também os mais bem avaliados? Existe alguma relação entre popularidade e sucesso financeiro?**  
 
 Fiz um gráfico de dispersão para mostrar a relação entre popularidade X lucro liquido
 
@@ -90,7 +90,7 @@ Fiz um gráfico de dispersão para mostrar a relação entre popularidade X lucr
 
 Podemos notar que O iluminado, é realmente popular, embora tenha sido feito com um orçamento não muito expressivo, também se destacam nesse gráfico It  e It 2 , os demais filmes podemos notar tiveram tanto um orçamento quanto popularidades parecidos.
 
-**Há alguma correlação entre diretores ou produtoras específicas e o lucro dos filmes?** 
+❓ **Há alguma correlação entre diretores ou produtoras específicas e o lucro dos filmes?** 
 
 Quanto as produtoras mais lucrativas tivemos o seguinte resultado, nessa analise escolhi pegar as 15 mais lucrativas.
 
@@ -104,7 +104,7 @@ Quanto aos diretores esses são os 10 mais lucrativos.
 
 Andy Muschietti diretor de It  e It capítulo 2  é o grande destaque nessa analise, podemos ver a diferença enorme entre ele e o segundo colocado Mikael Håfström por 1408.
 
-**Quais foram os orçamentos, bilheterias e lucros dos filmes? Quais os filmes mais rentáveis (considerando a diferença entre o custo de produção e a arrecadação de bilheteria)?**  
+❓ **Quais foram os orçamentos, bilheterias e lucros dos filmes? Quais os filmes mais rentáveis (considerando a diferença entre o custo de produção e a arrecadação de bilheteria)?**  
 
 Para responder essa última pergunta utilizei orçamento, lucro liquido e receita usei aqui todos os filmes e colocarei o gráfico dividido em duas partes para melhor visualização.
 
