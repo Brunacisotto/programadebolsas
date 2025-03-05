@@ -6,6 +6,8 @@ Minha **squad** teve como tema de análise os **gêneros Terror e Mistério**. D
 
 ## 🎯 Questões de Pesquisa  
 
+O objetivo da minha análise era descobrir se os filmes baseados na obra de Stephen King foram mais populares no passado ou se eles ainda hoje são relevantes.
+
 1. **Qual é a porcentagem de filmes relacionados a Stephen King que pertencem ao gênero terror/mistério em comparação com outros gêneros?**  
 2. **Dentro do gênero terror/mistério, qual a porcentagem de filmes em que o autor teve o papel de escritor? Ele teve maior participação nesse papel? Ele assumiu outras funções além de escritor nos filmes?**  
 3. **Qual é a década de lançamento predominante nos filmes mais populares? Eles tiveram mais sucesso em décadas anteriores ou ainda mantêm relevância atualmente?**  
