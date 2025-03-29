@@ -116,6 +116,10 @@ Para responder essa última pergunta utilizei orçamento, lucro liquido e receit
 
 Podemos notar que o grande destaque fica por conta de It e It capítulo 2 com lucros estratosféricos, é interessante notarmos os próximos em lucratividade 1408, Cujo e Cemitério Maldito.
 
+Aqui está o dashboard final
+
+![dashking](../Desafio/dashking.pdf)
+
 ## Conclusão
 
 ### A Relevância Contínua de Stephen King no Cinema
