@@ -127,7 +127,7 @@ Aqui está o dashboard final
 ## Conclusão
 
 ### A Relevância Contínua de Stephen King no Cinema
-A análise dos filmes baseados nas obras de Stephen King revela que sua influência permanece forte ao longo das décadas. Embora O Iluminado do ano 1980 tenha sido um grande sucesso em termos de popularidade e outras adaptações feitas nas décadas de 1980 e 1990 ainda são lembradas como clássicos do gênero terror, mais recentemente, It (2017) e It: Capítulo 2 (2019), baseados no livro de 1986, alcançaram enorme sucesso de bilheteria, os maior já registrados em filmes baseados em obras do autor. Além de serem bem recebidos pelo público, essas adaptações trouxeram lucros expressivos para seus diretores e produtoras.
+A análise dos filmes baseados nas obras de Stephen King revela que sua influência permanece forte ao longo das décadas. Embora O Iluminado do ano 1980 tenha sido um grande sucesso em termos de popularidade e outras adaptações feitas nas décadas de 1980 e 1990 ainda são lembradas como clássicos do gênero terror, mais recentemente, It (2017) e It: Capítulo 2 (2019), baseados no livro de 1986, alcançaram enorme sucesso de bilheteria, os maiores já registrados em filmes baseados em obras do autor. Além de serem bem recebidos pelo público, essas adaptações trouxeram lucros expressivos para seus diretores e produtoras.
 
 O Impacto no Mercado Literário
 O sucesso dos filmes impulsionou as vendas do livro It, que voltou à lista de best-sellers e vendeu milhões de cópias ao redor do mundo. Esse fenômeno também reacendeu o interesse por outras obras de Stephen King, aumentando sua popularidade e resultando no relançamento de novas edições, muitas com capas inspiradas nas adaptações cinematográficas.
