@@ -118,7 +118,11 @@ Podemos notar que o grande destaque fica por conta de It e It capítulo 2 com lu
 
 Aqui está o dashboard final
 
-![dashking](../Desafio/dashking.pdf)
+[dashking](../Desafio/dashking.pdf)
+
+![dashking](../Desafio/dashking_page-0001.jpg)
+
+
 
 ## Conclusão
 
